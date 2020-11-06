@@ -1,0 +1,1444 @@
+guid:0x97C9F5F641D25E5F time: Thu Jan 01 07:00:00 1970  severity:0 type:2 app:System data:JVM:INFOp=2584e259,a='5.0.0.681',o='5.2.0.67',h=84001503
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:31:11 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:31:11 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:31:12 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:31:13 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:31:14 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:31:15 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 07:31:15 2010  severity:0 type:2 app:net.rim.ippp data:TxSC
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 07:31:16 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   346
+guid:0x7D52B2987EC80054 time: Sat Aug 07 07:31:16 2010  severity:0 type:2 app:net.rim.fd data:FDOn   0
+guid:0x7D52B2987EC80054 time: Sat Aug 07 07:31:16 2010  severity:0 type:2 app:net.rim.fd data:FDOf
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 07:31:16 2010  severity:0 type:2 app:net.rim.ippp data:TXst   10454
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 07:31:17 2010  severity:0 type:2 app:net.rim.gme data:RXCo
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:31:18 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 07:31:19 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   346
+guid:0x7D52B2987EC80054 time: Sat Aug 07 07:31:19 2010  severity:0 type:2 app:net.rim.fd data:FDOn   0
+guid:0x7D52B2987EC80054 time: Sat Aug 07 07:31:25 2010  severity:0 type:2 app:net.rim.fd data:FDOf
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 07:31:25 2010  severity:0 type:2 app:net.rim.ippp data:TXst   28187
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:31:26 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:31:27 2010  severity:3 type:2 app:net.rim.mdp data:TNda
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 07:31:28 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   346
+guid:0x7D52B2987EC80054 time: Sat Aug 07 07:31:28 2010  severity:0 type:2 app:net.rim.fd data:FDOn   0
+guid:0x7D52B2987EC80054 time: Sat Aug 07 07:31:31 2010  severity:0 type:2 app:net.rim.fd data:FDOf
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 07:31:31 2010  severity:0 type:2 app:net.rim.ippp data:TXst   12672
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 07:31:33 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   346
+guid:0x7D52B2987EC80054 time: Sat Aug 07 07:31:33 2010  severity:0 type:2 app:net.rim.fd data:FDOn   0
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 07:31:38 2010  severity:0 type:2 app:System data:VM:-LGCMt=644,s=48028,p=com_smrtguard_app
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 07:31:49 2010  severity:0 type:2 app:System data:CMM: com_smrtguard_app-1(6244) no sig from 0x33
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 07:32:02 2010  severity:0 type:2 app:System data:VM:EGLCv=19912
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 07:32:03 2010  severity:0 type:2 app:System data:VM:EGLCv=16792
+guid:0x7D52B2987EC80054 time: Sat Aug 07 07:32:12 2010  severity:0 type:2 app:net.rim.fd data:FDOf
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 07:32:12 2010  severity:0 type:2 app:net.rim.ippp data:TXst   51557
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:32:13 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:32:14 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:32:15 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:32:16 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:32:17 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:32:18 2010  severity:3 type:2 app:net.rim.mdp data:TNda
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 07:32:18 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   347
+guid:0x7D52B2987EC80054 time: Sat Aug 07 07:32:18 2010  severity:0 type:2 app:net.rim.fd data:FDOn   0
+guid:0x7D52B2987EC80054 time: Sat Aug 07 07:32:19 2010  severity:0 type:2 app:net.rim.fd data:FDOf
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 07:32:19 2010  severity:0 type:2 app:net.rim.ippp data:TXst   51613
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:32:20 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:32:21 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:32:21 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:32:22 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:32:23 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:32:24 2010  severity:3 type:2 app:net.rim.mdp data:TNda
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 07:32:24 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   346
+guid:0x7D52B2987EC80054 time: Sat Aug 07 07:32:24 2010  severity:0 type:2 app:net.rim.fd data:FDOn   0
+guid:0x7D52B2987EC80054 time: Sat Aug 07 07:32:24 2010  severity:0 type:2 app:net.rim.fd data:FDOf
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 07:32:24 2010  severity:0 type:2 app:net.rim.ippp data:TXst   51671
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:32:26 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:32:26 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:32:27 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:32:28 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:32:29 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:32:30 2010  severity:3 type:2 app:net.rim.mdp data:TNda
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 07:32:31 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   347
+guid:0x7D52B2987EC80054 time: Sat Aug 07 07:32:31 2010  severity:0 type:2 app:net.rim.fd data:FDOn   0
+guid:0x7D52B2987EC80054 time: Sat Aug 07 07:32:31 2010  severity:0 type:2 app:net.rim.fd data:FDOf
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 07:32:31 2010  severity:0 type:2 app:net.rim.ippp data:TXst   51793
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:32:32 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:32:33 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:32:34 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:32:35 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:32:36 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:32:36 2010  severity:3 type:2 app:net.rim.mdp data:TNda
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 07:32:37 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   346
+guid:0x7D52B2987EC80054 time: Sat Aug 07 07:32:37 2010  severity:0 type:2 app:net.rim.fd data:FDOn   0
+guid:0x7D52B2987EC80054 time: Sat Aug 07 07:32:38 2010  severity:0 type:2 app:net.rim.fd data:FDOf
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 07:32:38 2010  severity:0 type:2 app:net.rim.ippp data:TXst   52056
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:32:39 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:32:40 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:32:40 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:32:41 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:32:42 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:32:43 2010  severity:3 type:2 app:net.rim.mdp data:TNda
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 07:32:44 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   346
+guid:0x7D52B2987EC80054 time: Sat Aug 07 07:32:44 2010  severity:0 type:2 app:net.rim.fd data:FDOn   0
+guid:0x7D52B2987EC80054 time: Sat Aug 07 07:32:44 2010  severity:0 type:2 app:net.rim.fd data:FDOf
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 07:32:44 2010  severity:0 type:2 app:net.rim.ippp data:TXst   51718
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:32:45 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:32:46 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:32:47 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:32:48 2010  severity:3 type:2 app:net.rim.mdp data:TNda
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 07:32:48 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   347
+guid:0x7D52B2987EC80054 time: Sat Aug 07 07:32:49 2010  severity:0 type:2 app:net.rim.fd data:FDOn   0
+guid:0x7D52B2987EC80054 time: Sat Aug 07 07:32:49 2010  severity:0 type:2 app:net.rim.fd data:FDOf
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 07:32:49 2010  severity:0 type:2 app:net.rim.ippp data:TXst   51748
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:32:50 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:32:51 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:32:52 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:32:52 2010  severity:3 type:2 app:net.rim.mdp data:TNda
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 07:32:53 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   346
+guid:0x7D52B2987EC80054 time: Sat Aug 07 07:32:53 2010  severity:0 type:2 app:net.rim.fd data:FDOn   0
+guid:0x7D52B2987EC80054 time: Sat Aug 07 07:32:53 2010  severity:0 type:2 app:net.rim.fd data:FDOf
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 07:32:53 2010  severity:0 type:2 app:net.rim.ippp data:TXst   52055
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:32:54 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:32:55 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:32:56 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:32:57 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:32:58 2010  severity:3 type:2 app:net.rim.mdp data:TNda
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 07:32:59 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   346
+guid:0x7D52B2987EC80054 time: Sat Aug 07 07:32:59 2010  severity:0 type:2 app:net.rim.fd data:FDOn   0
+guid:0x7D52B2987EC80054 time: Sat Aug 07 07:32:59 2010  severity:0 type:2 app:net.rim.fd data:FDOf
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 07:32:59 2010  severity:0 type:2 app:net.rim.ippp data:TXst   51911
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 07:33:00 2010  severity:0 type:2 app:System data:VM:+GC RX=5.4M,RF=11.1M,FF=59.7M,OF=208.7K,OS=20.4M,ON=370.2K,OR=0,FR=263.9K,TR=7.6K,RR=369,IS=17.4K RA=23.4M,RS=20.4M,RN=70.2K TA=19.2M,TS=0,TN=122.5K PA=0,PS=0,PN=138.6K R0=55M,1=800.2K,2=20K,3=125.3K,4=1.9M,7=412.3K,8=6K,9=20.9M,10=24.8K,11=109K,12=362.7K,13=59.6K,14=86.8K,15=371.2K,20=4.7K,21=780,22=86.8K,23=105.4K,24=16.5K
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 07:33:19 2010  severity:0 type:2 app:System data:VM:-GC RX=5.4M,RF=13.3M,FF=59.6M,OF=213K,OS=17.3M,ON=365.9K,OR=0,FR=0,TR=0,RR=0,IS=17.4K RA=21.2M,RS=17.3M,RN=65.9K TA=19.3M,TS=0,TN=122.7K PA=0,PS=0,PN=138.5K R0=55M,1=800.2K,2=20K,3=125.3K,4=1.9M,7=412.3K,8=6K,9=18.7M,10=24.8K,11=109K,12=362.7K,13=57.1K,14=86.8K,15=371.2K,20=4.7K,21=780,22=86.8K,23=105.4K,24=16.5K
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 07:33:19 2010  severity:0 type:2 app:System data:-GCt=1829,b=1,r=0,g=t,w=8,u=0,c=1
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 07:33:20 2010  severity:0 type:2 app:net.rim.ippp data:TxSC
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:33:20 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:33:20 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:33:20 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:33:22 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:33:23 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:33:24 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:33:25 2010  severity:3 type:2 app:net.rim.mdp data:TNda
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 07:33:25 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   346
+guid:0x7D52B2987EC80054 time: Sat Aug 07 07:33:25 2010  severity:0 type:2 app:net.rim.fd data:FDOn   0
+guid:0x7D52B2987EC80054 time: Sat Aug 07 07:33:25 2010  severity:0 type:2 app:net.rim.fd data:FDOf
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 07:33:25 2010  severity:0 type:2 app:net.rim.ippp data:TXst   51647
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 07:33:26 2010  severity:0 type:2 app:net.rim.gme data:RXCo
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:33:27 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:33:28 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:33:29 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:33:30 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:33:31 2010  severity:3 type:2 app:net.rim.mdp data:TNda
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 07:33:31 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   346
+guid:0x7D52B2987EC80054 time: Sat Aug 07 07:33:31 2010  severity:0 type:2 app:net.rim.fd data:FDOn   0
+guid:0x7D52B2987EC80054 time: Sat Aug 07 07:33:31 2010  severity:0 type:2 app:net.rim.fd data:FDOf
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 07:33:31 2010  severity:0 type:2 app:net.rim.ippp data:TXst   51710
+guid:0x29E95A693C6802B8 time: Sat Aug 07 07:33:31 2010  severity:0 type:2 app:cmime data:RXCd   469069922
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 07:33:32 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451417
+guid:0x166C870F1691C777 time: Sat Aug 07 07:33:32 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:33:33 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:33:34 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:33:35 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:33:35 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:33:36 2010  severity:3 type:2 app:net.rim.mdp data:TNda
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 07:33:37 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   346
+guid:0x7D52B2987EC80054 time: Sat Aug 07 07:33:37 2010  severity:0 type:2 app:net.rim.fd data:FDOn   0
+guid:0x7D52B2987EC80054 time: Sat Aug 07 07:33:37 2010  severity:0 type:2 app:net.rim.fd data:FDOf
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 07:33:37 2010  severity:0 type:2 app:net.rim.ippp data:TXst   32532
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:33:38 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:33:39 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:33:40 2010  severity:3 type:2 app:net.rim.mdp data:TNda
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 07:33:40 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   346
+guid:0x7D52B2987EC80054 time: Sat Aug 07 07:33:40 2010  severity:0 type:2 app:net.rim.fd data:FDOn   0
+guid:0x7D52B2987EC80054 time: Sat Aug 07 07:33:43 2010  severity:0 type:2 app:net.rim.fd data:FDOf
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 07:33:43 2010  severity:0 type:2 app:net.rim.ippp data:TXst   15858
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:33:49 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:33:49 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:33:49 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:33:49 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:33:49 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:33:51 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:33:51 2010  severity:3 type:2 app:net.rim.mdp data:TNda
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 07:33:53 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   346
+guid:0x7D52B2987EC80054 time: Sat Aug 07 07:33:53 2010  severity:0 type:2 app:net.rim.fd data:FDOn   0
+guid:0x7D52B2987EC80054 time: Sat Aug 07 07:33:56 2010  severity:0 type:2 app:net.rim.fd data:FDOf
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 07:33:56 2010  severity:0 type:2 app:net.rim.ippp data:TXst   123
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 07:33:57 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   376
+guid:0x7D52B2987EC80054 time: Sat Aug 07 07:33:57 2010  severity:0 type:2 app:net.rim.fd data:FDOn   0
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 07:34:01 2010  severity:0 type:2 app:System data:VM:+RRi RX=5.4M,RF=16M,FF=59.8M,OF=213.5K,OS=15M,ON=365.4K,OR=0,FR=14.6K,TR=1.9K,RR=0,IS=17.4K RA=18.5M,RS=15M,RN=65.5K TA=19.1M,TS=0,TN=122.6K PA=0,PS=0,PN=138.5K R0=55M,1=800.2K,2=20K,3=125.3K,4=1.9M,7=412.3K,8=6K,9=16M,10=24.6K,11=107.8K,12=362.7K,13=53.3K,14=86.8K,15=371.2K,20=4.7K,21=780,22=86.8K,23=105.4K,24=16.5K
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 07:34:01 2010  severity:0 type:2 app:System data:VM:-RR RX=5.4M,RF=16.3M,FF=59.4M,OF=213.5K,OS=14.6M,ON=365.4K,OR=0,FR=14.6K,TR=1.9K,RR=0,IS=17.4K RA=18.2M,RS=14.6M,RN=63.3K TA=19.4M,TS=0,TN=124.7K PA=0,PS=0,PN=138.5K R0=55M,1=800.2K,2=20K,3=125.3K,4=1.9M,7=412.3K,8=6K,9=15.6M,10=24.6K,11=107.8K,12=362.7K,13=53.3K,14=86.8K,15=371.2K,20=4.7K,21=780,22=86.8K,23=105.4K,24=16.5K
+guid:0x29E95A693C6802B8 time: Sat Aug 07 07:35:15 2010  severity:0 type:2 app:cmime data:RXCd   469070325
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 07:35:15 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147461397
+guid:0x166C870F1691C777 time: Sat Aug 07 07:35:15 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 07:36:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 07:38:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 07:40:00 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 07:41:17 2010  severity:0 type:2 app:BBM data:RXCd 0x397c74b7
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 07:41:17 2010  severity:0 type:2 app:BBM data:SDIR 0x1748daafe7
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 07:41:17 2010  severity:0 type:2 app:BBM data:TXst 0x6f244d58
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 07:41:17 2010  severity:3 type:2 app:BBM data:TXto 0x6f244af5
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 07:41:18 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 07:41:20 2010  severity:0 type:2 app:BBM data:RXCd 0x32d71d52
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 07:41:21 2010  severity:0 type:2 app:BBM data:IROK
+guid:0x389FE34834FB0EDF time: Sat Aug 07 07:41:21 2010  severity:3 type:2 app:net.rim.mdp data:RDpd
+guid:0x67FA59146751EBD2 time: Sat Aug 07 07:41:30 2010  severity:0 type:2 app:BBG data:RXCd 0x3215196639787294
+guid:0x67FA59146751EBD2 time: Sat Aug 07 07:41:30 2010  severity:0 type:2 app:BBG data:GTrx  840243558 5778
+guid:0x7D52B2987EC80054 time: Sat Aug 07 07:41:31 2010  severity:0 type:2 app:net.rim.fd data:FDOf
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 07:41:46 2010  severity:0 type:2 app:BBM data:RXCd 0x6a4c11d9
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 07:41:46 2010  severity:0 type:2 app:BBM data:SDIR 0x1749ac5459
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 07:41:46 2010  severity:0 type:2 app:BBM data:TXst 0x6f244d59
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 07:41:46 2010  severity:3 type:2 app:BBM data:TXto 0x6f244b83
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 07:41:47 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 07:41:49 2010  severity:0 type:2 app:BBM data:RXCd 0x32d741cd
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 07:41:49 2010  severity:0 type:2 app:BBM data:IROK
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 07:42:02 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x67FA59146751EBD2 time: Sat Aug 07 07:42:02 2010  severity:0 type:2 app:BBG data:RXCd 0x21096ba487380c44
+guid:0x67FA59146751EBD2 time: Sat Aug 07 07:42:02 2010  severity:0 type:2 app:BBG data:GTrx  554265508 5826
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 07:42:52 2010  severity:0 type:2 app:BBM data:RXCd 0x247a31bc
+guid:0x67FA59146751EBD2 time: Sat Aug 07 07:43:02 2010  severity:0 type:2 app:BBG data:RXCd 0x21096ba48b689a34
+guid:0x67FA59146751EBD2 time: Sat Aug 07 07:43:02 2010  severity:0 type:2 app:BBG data:GTrx  554265508 584
+guid:0x861CAF16D70E4924 time: Sat Aug 07 07:43:45 2010  severity:0 type:2 app:FileSystem data:getFileInfo0(fs=1, name=/autorun.inf/con/). rc=3
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 07:44:02 2010  severity:0 type:2 app:BBM data:RXCd 0x48556eb2
+guid:0x67FA59146751EBD2 time: Sat Aug 07 07:44:12 2010  severity:0 type:2 app:BBG data:RXCd 0x21e5de293ff132ac
+guid:0x67FA59146751EBD2 time: Sat Aug 07 07:44:12 2010  severity:0 type:2 app:BBG data:GTrx  568712745 821
+guid:0x29E95A693C6802B8 time: Sat Aug 07 07:44:24 2010  severity:0 type:2 app:cmime data:TXst   1864650074
+guid:0xCB039F26E560F62D time: Sat Aug 07 07:44:27 2010  severity:0 type:2 app:net.rim.memclean data:FrmF
+guid:0x29E95A693C6802B8 time: Sat Aug 07 07:44:28 2010  severity:0 type:2 app:cmime data:TXst   1864650075
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 07:44:34 2010  severity:0 type:2 app:BBM data:TXst 0x6f244d5c
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 07:44:38 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 07:46:10 2010  severity:0 type:2 app:System data:VM:+GC RX=7.6M,RF=15.9M,FF=59.5M,OF=213.2K,OS=14.8M,ON=365.7K,OR=0,FR=178.3K,TR=132.1K,RR=146,IS=17.6K RA=18.6M,RS=14.8M,RN=63.5K TA=19.2M,TS=0,TN=124.5K PA=0,PS=0,PN=138.7K R0=55M,1=800.2K,2=20K,3=125.3K,4=1.9M,7=412.4K,8=6K,9=16.1M,10=24.8K,11=109.7K,12=362.7K,13=53.5K,14=86.8K,15=371.2K,20=4.7K,21=780,22=86.8K,23=105.4K,24=16.5K
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 07:46:30 2010  severity:0 type:2 app:System data:VM:-GC RX=7.6M,RF=16.3M,FF=59.5M,OF=214.1K,OS=14.5M,ON=364.8K,OR=0,FR=0,TR=0,RR=0,IS=17.3K RA=18.2M,RS=14.5M,RN=62.2K TA=19.4M,TS=0,TN=125.3K PA=0,PS=0,PN=138.5K R0=55M,1=800.2K,2=20K,3=125.3K,4=1.9M,7=412.4K,8=6K,9=15.7M,10=24.8K,11=109.7K,12=362.7K,13=53.2K,14=86.8K,15=371.2K,20=4.7K,21=780,22=86.8K,23=105.4K,24=16.5K
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 07:46:30 2010  severity:0 type:2 app:System data:-GCt=1948,b=1,r=0,g=t,w=8,u=0,c=1
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 07:47:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x7D52B2987EC80054 time: Sat Aug 07 07:47:01 2010  severity:0 type:2 app:net.rim.fd data:FDOn   1
+guid:0xBEF92E11214401C3 time: Sat Aug 07 07:47:11 2010  severity:0 type:2 app:UI data:GS+Q2 e8a78f9enet.rim.device.apps.internal.profiles.ProfilesPopupScreen
+guid:0xBEF92E11214401C3 time: Sat Aug 07 07:47:13 2010  severity:0 type:2 app:UI data:GS-D e8a78f9e
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 07:47:51 2010  severity:0 type:2 app:BBM data:RXCd 0x8af8266c
+guid:0x7D52B2987EC80054 time: Sat Aug 07 07:47:51 2010  severity:0 type:2 app:net.rim.fd data:FDOf
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 07:47:59 2010  severity:0 type:2 app:BBM data:RXCd 0x870241c7
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 07:48:07 2010  severity:0 type:2 app:BBM data:RXCd 0x2a7145fa
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 07:49:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 07:50:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 07:50:01 2010  severity:0 type:2 app:net.rim.ippp data:TXst   539
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 07:50:01 2010  severity:0 type:2 app:net.rim.ippp data:TXst   531
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 07:50:02 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   11
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 07:50:03 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   15469
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 07:50:04 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   2414
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 07:51:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x7D52B2987EC80054 time: Sat Aug 07 07:51:01 2010  severity:0 type:2 app:net.rim.fd data:FDOn   1
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 07:53:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 07:54:02 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 07:56:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 07:58:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 08:00:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:01:33 2010  severity:0 type:2 app:BBM data:RXCd 0x4e74a733
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:01:33 2010  severity:0 type:2 app:BBM data:TXst 0x6f244d5f
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:01:34 2010  severity:0 type:2 app:BBM data:TXst 0x6f244d60
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 08:01:35 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:01:38 2010  severity:0 type:2 app:BBM data:TXst 0x6f244d61
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:01:38 2010  severity:0 type:2 app:BBM data:RXCd 0x4c473d8b
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 08:02:00 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x29E95A693C6802B8 time: Sat Aug 07 08:02:47 2010  severity:0 type:2 app:cmime data:RXCd   469078949
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 08:02:48 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451415
+guid:0x166C870F1691C777 time: Sat Aug 07 08:02:48 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x29E95A693C6802B8 time: Sat Aug 07 08:02:49 2010  severity:0 type:2 app:cmime data:RXCd   469078814
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 08:02:49 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451416
+guid:0x166C870F1691C777 time: Sat Aug 07 08:02:49 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 08:04:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 08:07:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 08:10:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:12:34 2010  severity:0 type:2 app:BBM data:RXCd 0x89b05e08
+guid:0x67FA59146751EBD2 time: Sat Aug 07 08:12:45 2010  severity:0 type:2 app:BBG data:RXCd 0x21096ba45ae8f78a
+guid:0x67FA59146751EBD2 time: Sat Aug 07 08:12:45 2010  severity:0 type:2 app:BBG data:GTrx  554265508 571
+guid:0x7D52B2987EC80054 time: Sat Aug 07 08:12:46 2010  severity:0 type:2 app:net.rim.fd data:FDOf
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 08:13:00 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x7D52B2987EC80054 time: Sat Aug 07 08:15:00 2010  severity:0 type:2 app:net.rim.fd data:FDOn   1
+guid:0x29E95A693C6802B8 time: Sat Aug 07 08:15:58 2010  severity:0 type:2 app:cmime data:RXCd   469083421
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 08:15:58 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451414
+guid:0x166C870F1691C777 time: Sat Aug 07 08:15:58 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x7D52B2987EC80054 time: Sat Aug 07 08:16:00 2010  severity:0 type:2 app:net.rim.fd data:FDOf
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:16:00 2010  severity:0 type:2 app:net.rim.ippp data:TXst   198
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:16:01 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   674
+guid:0x7D52B2987EC80054 time: Sat Aug 07 08:16:01 2010  severity:0 type:2 app:net.rim.fd data:FDOn   0
+guid:0x7D52B2987EC80054 time: Sat Aug 07 08:16:01 2010  severity:0 type:2 app:net.rim.fd data:FDOf
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:16:01 2010  severity:0 type:2 app:net.rim.ippp data:TXst   151
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:16:03 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   1146
+guid:0x7D52B2987EC80054 time: Sat Aug 07 08:16:03 2010  severity:0 type:2 app:net.rim.fd data:FDOn   0
+guid:0x7D52B2987EC80054 time: Sat Aug 07 08:16:27 2010  severity:0 type:2 app:net.rim.fd data:FDOf
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:16:27 2010  severity:0 type:2 app:net.rim.ippp data:TXst   123
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:16:28 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   377
+guid:0x7D52B2987EC80054 time: Sat Aug 07 08:16:28 2010  severity:0 type:2 app:net.rim.fd data:FDOn   0
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 08:17:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x29E95A693C6802B8 time: Sat Aug 07 08:17:49 2010  severity:0 type:2 app:cmime data:RXCd   469084017
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 08:17:49 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451413
+guid:0x166C870F1691C777 time: Sat Aug 07 08:17:49 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 08:19:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x29E95A693C6802B8 time: Sat Aug 07 08:19:44 2010  severity:0 type:2 app:cmime data:RXCd   469084693
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 08:19:44 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451412
+guid:0x166C870F1691C777 time: Sat Aug 07 08:19:44 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x7D52B2987EC80054 time: Sat Aug 07 08:20:01 2010  severity:0 type:2 app:net.rim.fd data:FDOf
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:20:01 2010  severity:0 type:2 app:net.rim.ippp data:TXst   538
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:20:01 2010  severity:0 type:2 app:net.rim.ippp data:TXst   529
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:20:03 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   8203
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:20:05 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   12237
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:20:05 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   2416
+guid:0x7D52B2987EC80054 time: Sat Aug 07 08:20:05 2010  severity:0 type:2 app:net.rim.fd data:FDOn   0
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 08:20:16 2010  severity:0 type:2 app:System data:VM:+GC RX=7.6M,RF=15.9M,FF=59.3M,OF=195.7K,OS=15.9M,ON=383.2K,OR=0,FR=199.3K,TR=67K,RR=0,IS=17.5K RA=18.6M,RS=15.9M,RN=79.7K TA=19.4M,TS=0,TN=125.1K PA=0,PS=0,PN=139.4K R0=55M,1=800.2K,2=20K,3=125.3K,4=1.9M,7=412.4K,8=6K,9=16.1M,10=24.8K,11=108K,12=362.7K,13=53.2K,14=86.9K,15=371.2K,20=4.7K,21=780,22=86.8K,23=105.4K,24=16.5K
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 08:20:35 2010  severity:0 type:2 app:System data:VM:-GC RX=7.6M,RF=16.1M,FF=59.7M,OF=213.5K,OS=14.8M,ON=365.4K,OR=0,FR=0,TR=0,RR=0,IS=17.3K RA=18.5M,RS=14.8M,RN=62.7K TA=19.2M,TS=0,TN=125.1K PA=0,PS=0,PN=138.7K R0=55M,1=800.2K,2=20K,3=125.3K,4=1.9M,7=412.4K,8=6K,9=15.9M,10=24.8K,11=108K,12=362.7K,13=53.2K,14=86.9K,15=371.2K,20=4.7K,21=780,22=86.8K,23=105.4K,24=16.5K
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 08:20:35 2010  severity:0 type:2 app:System data:-GCt=1867,b=1,r=0,g=t,w=8,u=0,c=1
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 08:21:02 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x29E95A693C6802B8 time: Sat Aug 07 08:21:28 2010  severity:0 type:2 app:cmime data:RXCd   469085164
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 08:21:28 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451411
+guid:0x166C870F1691C777 time: Sat Aug 07 08:21:28 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x29E95A693C6802B8 time: Sat Aug 07 08:22:01 2010  severity:0 type:2 app:cmime data:RXCd   469085471
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 08:22:01 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451410
+guid:0x166C870F1691C777 time: Sat Aug 07 08:22:01 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x389FE34834FB0EDF time: Sat Aug 07 08:22:02 2010  severity:3 type:2 app:net.rim.mdp data:RDpd
+guid:0xCB039F26E560F62D time: Sat Aug 07 08:23:59 2010  severity:0 type:2 app:net.rim.memclean data:FrmF
+guid:0xCB039F26E560F62D time: Sat Aug 07 08:23:59 2010  severity:0 type:2 app:net.rim.memclean data:FrmF
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:24:09 2010  severity:0 type:2 app:BBM data:TXst 0x6f244d67
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 08:24:15 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:24:15 2010  severity:0 type:2 app:BBM data:TXst 0x6f244d68
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:24:15 2010  severity:3 type:2 app:BBM data:TXto 0x6f244b92
+guid:0x7D52B2987EC80054 time: Sat Aug 07 08:24:15 2010  severity:0 type:2 app:net.rim.fd data:FDOf
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 08:24:17 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x29E95A693C6802B8 time: Sat Aug 07 08:24:44 2010  severity:0 type:2 app:cmime data:TXst   1864650089
+guid:0xCB039F26E560F62D time: Sat Aug 07 08:24:49 2010  severity:0 type:2 app:net.rim.memclean data:FrmF
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:24:50 2010  severity:0 type:2 app:net.rim.ippp data:TXst   4380
+guid:0x389FE34834FB0EDF time: Sat Aug 07 08:24:50 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 08:24:50 2010  severity:0 type:2 app:net.rim.mdp data:TXaw
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:24:52 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   41
+guid:0x1A77581FBCC4EC23 time: Sat Aug 07 08:24:52 2010  severity:0 type:2 app:net.rim.browser data:BSM: connected. 4338bytes; 2secs
+guid:0xCB039F26E560F62D time: Sat Aug 07 08:24:52 2010  severity:0 type:2 app:net.rim.memclean data:FrmF
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:24:52 2010  severity:0 type:2 app:net.rim.ippp data:TXst   729
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:24:53 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   341
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:24:53 2010  severity:0 type:2 app:net.rim.ippp data:TXst   826
+guid:0x389FE34834FB0EDF time: Sat Aug 07 08:24:53 2010  severity:0 type:2 app:net.rim.mdp data:TXrw
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:24:55 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   1955
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:24:55 2010  severity:0 type:2 app:net.rim.ippp data:TXst   1157
+guid:0x1A77581FBCC4EC23 time: Sat Aug 07 08:24:55 2010  severity:0 type:2 app:net.rim.browser data:IPPP-GPMDSAP01:bb,js,ss,bg,em,http://m.kaskus.us/
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:24:55 2010  severity:0 type:2 app:net.rim.ippp data:TXst   1743
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:24:58 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   8203
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:24:58 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   2756
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:24:58 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   11
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:25:01 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   7871
+guid:0x9E1837BCC1E53D3 time: Sat Aug 07 08:25:02 2010  severity:0 type:2 app:net.rim.http data:MSND 1
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:25:03 2010  severity:0 type:2 app:net.rim.ippp data:TXst   842
+guid:0x9E1837BCC1E53D3 time: Sat Aug 07 08:25:03 2010  severity:0 type:2 app:net.rim.http data:MSND 1
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:25:03 2010  severity:0 type:2 app:net.rim.ippp data:TXst   1162
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:25:04 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   294
+guid:0x9E1837BCC1E53D3 time: Sat Aug 07 08:25:04 2010  severity:0 type:2 app:net.rim.http data:MRFR
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:25:05 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   389
+guid:0x9E1837BCC1E53D3 time: Sat Aug 07 08:25:05 2010  severity:0 type:2 app:net.rim.http data:MRFR
+guid:0x1A77581FBCC4EC23 time: Sat Aug 07 08:25:05 2010  severity:0 type:2 app:net.rim.browser data:load time: 10016
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:25:05 2010  severity:0 type:2 app:net.rim.ippp data:TXst   254
+guid:0x1A77581FBCC4EC23 time: Sat Aug 07 08:25:05 2010  severity:0 type:2 app:net.rim.browser data:Bafd
+guid:0x1A77581FBCC4EC23 time: Sat Aug 07 08:25:05 2010  severity:0 type:2 app:net.rim.browser data:Brtd 10156 20551
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:25:06 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   41
+guid:0x1A77581FBCC4EC23 time: Sat Aug 07 08:25:12 2010  severity:0 type:2 app:net.rim.browser data:IPPP-GPMDSAP01:bb,js,ss,bg,em,http://m.kaskus.us/forum/242
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:25:12 2010  severity:0 type:2 app:net.rim.ippp data:TXst   1800
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:25:14 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   11
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:25:16 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   7014
+guid:0x9E1837BCC1E53D3 time: Sat Aug 07 08:25:17 2010  severity:0 type:2 app:net.rim.http data:MSND 2
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:25:17 2010  severity:0 type:2 app:net.rim.ippp data:TXst   2051
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:25:18 2010  severity:0 type:2 app:BBM data:RXCd 0x6c0b51d2
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:25:18 2010  severity:0 type:2 app:BBM data:RXCd 0x5aed9d70
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:25:19 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   672
+guid:0x9E1837BCC1E53D3 time: Sat Aug 07 08:25:19 2010  severity:0 type:2 app:net.rim.http data:MRFR
+guid:0x1A77581FBCC4EC23 time: Sat Aug 07 08:25:19 2010  severity:0 type:2 app:net.rim.browser data:load time: 6891
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:25:19 2010  severity:0 type:2 app:net.rim.ippp data:TXst   161
+guid:0x1A77581FBCC4EC23 time: Sat Aug 07 08:25:19 2010  severity:0 type:2 app:net.rim.browser data:Bafd
+guid:0x1A77581FBCC4EC23 time: Sat Aug 07 08:25:19 2010  severity:0 type:2 app:net.rim.browser data:Brtd 6929 8334
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:25:20 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   41
+guid:0xBEF92E11214401C3 time: Sat Aug 07 08:25:21 2010  severity:0 type:2 app:UI data:GS+Q2 ca3bdc56net.rim.device.apps.internal.ribbon.ui.ApplicationSwitcher
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:25:24 2010  severity:0 type:2 app:BBM data:RXCd 0x764f601d
+guid:0xBEF92E11214401C3 time: Sat Aug 07 08:25:30 2010  severity:0 type:2 app:UI data:GS-D ca3bdc56
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:25:36 2010  severity:0 type:2 app:BBM data:TXst 0x6f244d75
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 08:25:37 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:25:46 2010  severity:0 type:2 app:BBM data:TXst 0x6f244d76
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 08:25:48 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:25:52 2010  severity:0 type:2 app:BBM data:TXst 0x6f244d77
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:25:52 2010  severity:3 type:2 app:BBM data:TXto 0x6f244c8c
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:25:54 2010  severity:0 type:2 app:BBM data:RXCd 0x372ed827
+guid:0xBEF92E11214401C3 time: Sat Aug 07 08:25:54 2010  severity:0 type:2 app:UI data:GS+Q2 e8604200net.rim.device.apps.internal.ribbon.ui.ApplicationSwitcher
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 08:25:54 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0xBEF92E11214401C3 time: Sat Aug 07 08:25:55 2010  severity:0 type:2 app:UI data:GS-D e8604200
+guid:0x1A77581FBCC4EC23 time: Sat Aug 07 08:25:59 2010  severity:0 type:2 app:net.rim.browser data:IPPP-GPMDSAP01:bb,js,ss,bg,em,http://m.kaskus.us/forum/19
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:25:59 2010  severity:0 type:2 app:net.rim.ippp data:TXst   1819
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:25:59 2010  severity:0 type:2 app:BBM data:RXCd 0x6bee3c98
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:26:00 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   11
+guid:0xBEF92E11214401C3 time: Sat Aug 07 08:26:01 2010  severity:0 type:2 app:UI data:GS+Q2 994d9b9enet.rim.device.apps.internal.ribbon.ui.ApplicationSwitcher
+guid:0xBEF92E11214401C3 time: Sat Aug 07 08:26:02 2010  severity:0 type:2 app:UI data:GS-D 994d9b9e
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:26:03 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   8798
+guid:0x9E1837BCC1E53D3 time: Sat Aug 07 08:26:04 2010  severity:0 type:2 app:net.rim.http data:MSND 2
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:26:04 2010  severity:0 type:2 app:net.rim.ippp data:TXst   2054
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:26:06 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   672
+guid:0x9E1837BCC1E53D3 time: Sat Aug 07 08:26:06 2010  severity:0 type:2 app:net.rim.http data:MRFR
+guid:0x1A77581FBCC4EC23 time: Sat Aug 07 08:26:06 2010  severity:0 type:2 app:net.rim.browser data:load time: 7086
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:26:06 2010  severity:0 type:2 app:net.rim.ippp data:TXst   161
+guid:0x1A77581FBCC4EC23 time: Sat Aug 07 08:26:06 2010  severity:0 type:2 app:net.rim.browser data:Bafd
+guid:0x1A77581FBCC4EC23 time: Sat Aug 07 08:26:06 2010  severity:0 type:2 app:net.rim.browser data:Brtd 7117 9970
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:26:07 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   41
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:26:09 2010  severity:0 type:2 app:BBM data:TXst 0x6f244d7b
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 08:26:12 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:26:18 2010  severity:0 type:2 app:BBM data:RXCd 0x8a177ba4
+guid:0xBEF92E11214401C3 time: Sat Aug 07 08:26:40 2010  severity:0 type:2 app:UI data:GS+Q2 add9c2eenet.rim.device.apps.internal.ribbon.ui.ApplicationSwitcher
+guid:0xBEF92E11214401C3 time: Sat Aug 07 08:26:40 2010  severity:0 type:2 app:UI data:UIE: Focus - target lost, prev=net.rim.device.apps.internal.ribbon.ui.ApplicationSwitcher@add9c2ee, input=net.rim.device.apps.internal.qm.bbm.BBMConversationScreen@11bddbe7, app=net.rim.device.apps.internal.qm.bbm.BBMApplication@d1d22ee1
+guid:0xBEF92E11214401C3 time: Sat Aug 07 08:26:41 2010  severity:0 type:2 app:UI data:GS-D add9c2ee
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:26:45 2010  severity:0 type:2 app:BBM data:RXCd 0x66cbc415
+guid:0x1A77581FBCC4EC23 time: Sat Aug 07 08:26:45 2010  severity:0 type:2 app:net.rim.browser data:IPPP-GPMDSAP01:bb,js,ss,bg,em,http://m.kaskus.us/forum/176
+guid:0xCB039F26E560F62D time: Sat Aug 07 08:26:45 2010  severity:0 type:2 app:net.rim.memclean data:FrmF
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:26:45 2010  severity:0 type:2 app:net.rim.ippp data:TXst   1818
+guid:0xBEF92E11214401C3 time: Sat Aug 07 08:26:46 2010  severity:0 type:2 app:UI data:GS+Q2 4855e614net.rim.device.apps.internal.ribbon.ui.ApplicationSwitcher
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:26:47 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   11
+guid:0xBEF92E11214401C3 time: Sat Aug 07 08:26:47 2010  severity:0 type:2 app:UI data:GS-D 4855e614
+guid:0x29E95A693C6802B8 time: Sat Aug 07 08:26:47 2010  severity:0 type:2 app:cmime data:RXCd   469087239
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 08:26:48 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451409
+guid:0x166C870F1691C777 time: Sat Aug 07 08:26:48 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:26:50 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   8477
+guid:0x9E1837BCC1E53D3 time: Sat Aug 07 08:26:51 2010  severity:0 type:2 app:net.rim.http data:MSND 2
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:26:51 2010  severity:0 type:2 app:net.rim.ippp data:TXst   2062
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:26:52 2010  severity:0 type:2 app:BBM data:RXCd 0x7884c28d
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:26:52 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   672
+guid:0x9E1837BCC1E53D3 time: Sat Aug 07 08:26:52 2010  severity:0 type:2 app:net.rim.http data:MRFR
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:26:52 2010  severity:0 type:2 app:net.rim.ippp data:TXst   161
+guid:0x1A77581FBCC4EC23 time: Sat Aug 07 08:26:52 2010  severity:0 type:2 app:net.rim.browser data:load time: 7094
+guid:0x1A77581FBCC4EC23 time: Sat Aug 07 08:26:52 2010  severity:0 type:2 app:net.rim.browser data:Bafd
+guid:0x1A77581FBCC4EC23 time: Sat Aug 07 08:26:52 2010  severity:0 type:2 app:net.rim.browser data:Brtd 7125 14408
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:26:53 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   41
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:26:56 2010  severity:0 type:2 app:BBM data:TXst 0x6f244d7f
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 08:26:58 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:27:06 2010  severity:0 type:2 app:BBM data:TXst 0x6f244d80
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:27:06 2010  severity:3 type:2 app:BBM data:TXto 0x6f244aee
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:27:07 2010  severity:0 type:2 app:BBM data:TXst 0x6f244d81
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:27:08 2010  severity:0 type:2 app:BBM data:RXCd 0x4b2b88c0
+guid:0x29E95A693C6802B8 time: Sat Aug 07 08:27:09 2010  severity:0 type:2 app:cmime data:RXCd   469087365
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 08:27:09 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 08:27:09 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451408
+guid:0x166C870F1691C777 time: Sat Aug 07 08:27:09 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:27:21 2010  severity:0 type:2 app:BBM data:TXst 0x6f244d82
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:27:27 2010  severity:0 type:2 app:BBM data:TXst 0x6f244d83
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 08:27:28 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:27:29 2010  severity:0 type:2 app:BBM data:TXst 0x6f244d84
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:27:29 2010  severity:3 type:2 app:BBM data:TXto 0x6f244af2
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 08:27:30 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:27:32 2010  severity:0 type:2 app:BBM data:TXst 0x6f244d85
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 08:27:33 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:27:36 2010  severity:0 type:2 app:BBM data:RXCd 0x4b2bb88d
+guid:0x1A77581FBCC4EC23 time: Sat Aug 07 08:27:53 2010  severity:0 type:2 app:net.rim.browser data:IPPP-GPMDSAP01:bb,js,ss,bg,em,http://m.kaskus.us/thread/2992395/10
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:27:53 2010  severity:0 type:2 app:net.rim.ippp data:TXst   1828
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:27:53 2010  severity:0 type:2 app:BBM data:RXCd 0x66cc28fe
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:27:55 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   11
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:27:58 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   8934
+guid:0x9E1837BCC1E53D3 time: Sat Aug 07 08:27:59 2010  severity:0 type:2 app:net.rim.http data:MSND 2
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:27:59 2010  severity:0 type:2 app:net.rim.ippp data:TXst   2127
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:28:00 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   672
+guid:0x9E1837BCC1E53D3 time: Sat Aug 07 08:28:00 2010  severity:0 type:2 app:net.rim.http data:MRFR
+guid:0x1A77581FBCC4EC23 time: Sat Aug 07 08:28:01 2010  severity:0 type:2 app:net.rim.browser data:load time: 7438
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:28:01 2010  severity:0 type:2 app:net.rim.ippp data:TXst   161
+guid:0x1A77581FBCC4EC23 time: Sat Aug 07 08:28:01 2010  severity:0 type:2 app:net.rim.browser data:Bafd
+guid:0x1A77581FBCC4EC23 time: Sat Aug 07 08:28:01 2010  severity:0 type:2 app:net.rim.browser data:Brtd 7469 10057
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:28:01 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   41
+guid:0x1A77581FBCC4EC23 time: Sat Aug 07 08:28:18 2010  severity:0 type:2 app:net.rim.browser data:Bafd
+guid:0x1A77581FBCC4EC23 time: Sat Aug 07 08:28:18 2010  severity:0 type:2 app:net.rim.browser data:Brtd 227 0
+guid:0x1A77581FBCC4EC23 time: Sat Aug 07 08:28:24 2010  severity:0 type:2 app:net.rim.browser data:IPPP-GPMDSAP01:bb,js,ss,bg,em,http://m.kaskus.us/forum/176/20
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:28:24 2010  severity:0 type:2 app:net.rim.ippp data:TXst   1834
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:28:26 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   11
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:28:28 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   8513
+guid:0x9E1837BCC1E53D3 time: Sat Aug 07 08:28:29 2010  severity:0 type:2 app:net.rim.http data:MSND 2
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:28:29 2010  severity:0 type:2 app:net.rim.ippp data:TXst   2073
+guid:0x389FE34834FB0EDF time: Sat Aug 07 08:28:30 2010  severity:3 type:2 app:net.rim.mdp data:RDpd
+guid:0x29E95A693C6802B8 time: Sat Aug 07 08:28:30 2010  severity:0 type:2 app:cmime data:RXCd   469087787
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 08:28:30 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451407
+guid:0x166C870F1691C777 time: Sat Aug 07 08:28:31 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:28:31 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   672
+guid:0x9E1837BCC1E53D3 time: Sat Aug 07 08:28:31 2010  severity:0 type:2 app:net.rim.http data:MRFR
+guid:0x1A77581FBCC4EC23 time: Sat Aug 07 08:28:31 2010  severity:0 type:2 app:net.rim.browser data:load time: 6726
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:28:31 2010  severity:0 type:2 app:net.rim.ippp data:TXst   161
+guid:0x1A77581FBCC4EC23 time: Sat Aug 07 08:28:31 2010  severity:0 type:2 app:net.rim.browser data:Bafd
+guid:0x1A77581FBCC4EC23 time: Sat Aug 07 08:28:31 2010  severity:0 type:2 app:net.rim.browser data:Brtd 6766 12377
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:28:32 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   41
+guid:0x1A77581FBCC4EC23 time: Sat Aug 07 08:28:38 2010  severity:0 type:2 app:net.rim.browser data:IPPP-GPMDSAP01:bb,js,ss,bg,em,http://m.kaskus.us/thread/4916563/0/help-connect-django-framework-with-mysql
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:28:38 2010  severity:0 type:2 app:net.rim.ippp data:TXst   1940
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:28:39 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   11
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:28:41 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   8643
+guid:0x9E1837BCC1E53D3 time: Sat Aug 07 08:28:43 2010  severity:0 type:2 app:net.rim.http data:MSND 2
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:28:43 2010  severity:0 type:2 app:net.rim.ippp data:TXst   2253
+guid:0x389FE34834FB0EDF time: Sat Aug 07 08:28:43 2010  severity:3 type:2 app:net.rim.mdp data:RDpd
+guid:0x29E95A693C6802B8 time: Sat Aug 07 08:28:44 2010  severity:0 type:2 app:cmime data:RXCd   469087880
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 08:28:44 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451406
+guid:0x166C870F1691C777 time: Sat Aug 07 08:28:44 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:28:44 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   672
+guid:0x9E1837BCC1E53D3 time: Sat Aug 07 08:28:44 2010  severity:0 type:2 app:net.rim.http data:MRFR
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:28:44 2010  severity:0 type:2 app:net.rim.ippp data:TXst   161
+guid:0x1A77581FBCC4EC23 time: Sat Aug 07 08:28:44 2010  severity:0 type:2 app:net.rim.browser data:load time: 6836
+guid:0x1A77581FBCC4EC23 time: Sat Aug 07 08:28:44 2010  severity:0 type:2 app:net.rim.browser data:Bafd
+guid:0x1A77581FBCC4EC23 time: Sat Aug 07 08:28:44 2010  severity:0 type:2 app:net.rim.browser data:Brtd 6859 15195
+guid:0x389FE34834FB0EDF time: Sat Aug 07 08:28:45 2010  severity:3 type:2 app:net.rim.mdp data:RDpd
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:28:45 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   41
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:29:04 2010  severity:0 type:2 app:net.rim.ippp data:TXst   57
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:29:04 2010  severity:0 type:2 app:net.rim.ippp data:TXca
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:29:06 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   41
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:29:06 2010  severity:3 type:2 app:net.rim.ippp data:RXnp
+guid:0x29E95A693C6802B8 time: Sat Aug 07 08:29:22 2010  severity:0 type:2 app:cmime data:TXst   1864650128
+guid:0x389FE34834FB0EDF time: Sat Aug 07 08:29:27 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 08:29:28 2010  severity:0 type:2 app:net.rim.mdp data:TXaw
+guid:0x389FE34834FB0EDF time: Sat Aug 07 08:29:28 2010  severity:0 type:2 app:net.rim.mdp data:TXrw
+guid:0x7D52B2987EC80054 time: Sat Aug 07 08:30:01 2010  severity:0 type:2 app:net.rim.fd data:FDOn   1
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 08:30:22 2010  severity:0 type:2 app:System data:VM:+RRi RX=7.7M,RF=15.9M,FF=59.6M,OF=212.5K,OS=14.7M,ON=366.4K,OR=0,FR=99.4K,TR=30.4K,RR=11,IS=17.2K RA=18.6M,RS=14.7M,RN=62.8K TA=19.2M,TS=0,TN=124.7K PA=0,PS=0,PN=139.5K R0=55M,1=800.2K,2=20K,3=125.3K,4=1.9M,7=412.4K,8=6K,9=16.1M,10=25K,11=110.5K,12=362.7K,13=53.4K,14=86.6K,15=371.2K,20=4.7K,21=780,22=86.8K,23=105.4K,24=16.5K
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 08:30:23 2010  severity:0 type:2 app:System data:VM:-RR RX=7.7M,RF=16.3M,FF=59.2M,OF=212.5K,OS=14.4M,ON=366.4K,OR=0,FR=99.4K,TR=30.4K,RR=11,IS=17.2K RA=18.2M,RS=14.4M,RN=62.5K TA=19.5M,TS=0,TN=125K PA=0,PS=0,PN=139.5K R0=55M,1=800.2K,2=20K,3=125.3K,4=1.9M,7=412.4K,8=6K,9=15.7M,10=25K,11=110.5K,12=362.7K,13=53.4K,14=86.6K,15=371.2K,20=4.7K,21=780,22=86.8K,23=105.4K,24=16.5K
+guid:0x29E95A693C6802B8 time: Sat Aug 07 08:31:06 2010  severity:0 type:2 app:cmime data:RXCd   469088651
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 08:31:06 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451405
+guid:0x166C870F1691C777 time: Sat Aug 07 08:31:06 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x29E95A693C6802B8 time: Sat Aug 07 08:31:07 2010  severity:0 type:2 app:cmime data:RXCd   469088813
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 08:31:07 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451404
+guid:0x166C870F1691C777 time: Sat Aug 07 08:31:07 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 08:32:00 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 08:34:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x29E95A693C6802B8 time: Sat Aug 07 08:35:07 2010  severity:0 type:2 app:cmime data:RXCd   469090280
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 08:35:08 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451403
+guid:0x166C870F1691C777 time: Sat Aug 07 08:35:08 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x29E95A693C6802B8 time: Sat Aug 07 08:35:14 2010  severity:0 type:2 app:cmime data:RXCd   469090323
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 08:35:14 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451402
+guid:0x166C870F1691C777 time: Sat Aug 07 08:35:14 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x389FE34834FB0EDF time: Sat Aug 07 08:35:15 2010  severity:3 type:2 app:net.rim.mdp data:RDpd
+guid:0x29E95A693C6802B8 time: Sat Aug 07 08:35:25 2010  severity:0 type:2 app:cmime data:RXCd   469090388
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 08:35:25 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451401
+guid:0x166C870F1691C777 time: Sat Aug 07 08:35:25 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x29E95A693C6802B8 time: Sat Aug 07 08:35:45 2010  severity:0 type:2 app:cmime data:RXCd   469090532
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 08:35:45 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451400
+guid:0x166C870F1691C777 time: Sat Aug 07 08:35:45 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 08:36:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 08:38:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0xCB039F26E560F62D time: Sat Aug 07 08:39:28 2010  severity:0 type:2 app:net.rim.memclean data:FrmF
+guid:0x7D52B2987EC80054 time: Sat Aug 07 08:39:28 2010  severity:0 type:2 app:net.rim.fd data:FDOf
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:39:28 2010  severity:0 type:2 app:net.rim.ippp data:TXst   1795
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:39:30 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   11
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:39:32 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   32067
+guid:0x7D52B2987EC80054 time: Sat Aug 07 08:39:33 2010  severity:0 type:2 app:net.rim.fd data:FDOn   0
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 08:40:00 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x29E95A693C6802B8 time: Sat Aug 07 08:41:04 2010  severity:0 type:2 app:cmime data:RXCd   469092303
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 08:41:04 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451399
+guid:0x166C870F1691C777 time: Sat Aug 07 08:41:04 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:41:05 2010  severity:0 type:2 app:BBM data:RXCd 0x7b82c8e6
+guid:0x7D52B2987EC80054 time: Sat Aug 07 08:41:05 2010  severity:0 type:2 app:net.rim.fd data:FDOf
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:41:06 2010  severity:0 type:2 app:BBM data:RXCd 0x874dacb6
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 08:42:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:43:03 2010  severity:0 type:2 app:BBM data:TXst 0x6f244d92
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 08:43:07 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:43:14 2010  severity:0 type:2 app:BBM data:TXst 0x6f244d93
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 08:43:17 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:43:26 2010  severity:0 type:2 app:BBM data:TXst 0x6f244d94
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:43:27 2010  severity:0 type:2 app:BBM data:TXst 0x6f244d95
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:43:27 2010  severity:3 type:2 app:BBM data:TXto 0x6f244b90
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 08:43:29 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:43:34 2010  severity:0 type:2 app:BBM data:RXCd 0x1c1cf1f6
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:43:35 2010  severity:0 type:2 app:BBM data:RXCd 0x3ea28848
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:43:43 2010  severity:0 type:2 app:BBM data:RXCd 0x874ec008
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:43:51 2010  severity:0 type:2 app:BBM data:TXst 0x6f244d96
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 08:43:52 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:43:53 2010  severity:0 type:2 app:BBM data:RXCd 0x47a0d76c
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:44:01 2010  severity:0 type:2 app:BBM data:RXCd 0x5bff0654
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:44:07 2010  severity:0 type:2 app:BBM data:RXCd 0x1c1d2fb1
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:44:11 2010  severity:0 type:2 app:BBM data:TXst 0x6f244d97
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:44:12 2010  severity:0 type:2 app:BBM data:RXCd 0x8416633d
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 08:44:13 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:44:18 2010  severity:0 type:2 app:BBM data:TXst 0x6f244d98
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 08:44:20 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:44:26 2010  severity:0 type:2 app:BBM data:TXst 0x6f244d99
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:44:29 2010  severity:0 type:2 app:BBM data:TXst 0x6f244d9a
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:44:29 2010  severity:3 type:2 app:BBM data:TXto 0x6f244961
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 08:44:30 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0xCB039F26E560F62D time: Sat Aug 07 08:45:03 2010  severity:0 type:2 app:net.rim.memclean data:FrmF
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:45:03 2010  severity:0 type:2 app:net.rim.ippp data:TXst   4907
+guid:0x389FE34834FB0EDF time: Sat Aug 07 08:45:05 2010  severity:3 type:2 app:net.rim.mdp data:TNda
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:45:05 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   41
+guid:0x1A77581FBCC4EC23 time: Sat Aug 07 08:45:05 2010  severity:0 type:2 app:net.rim.browser data:BSM: connected. 4865bytes; 1secs
+guid:0xCB039F26E560F62D time: Sat Aug 07 08:45:05 2010  severity:0 type:2 app:net.rim.memclean data:FrmF
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:45:05 2010  severity:0 type:2 app:net.rim.ippp data:TXst   728
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:45:06 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   341
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:45:06 2010  severity:0 type:2 app:net.rim.ippp data:TXst   825
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:45:07 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   1957
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:45:08 2010  severity:0 type:2 app:net.rim.ippp data:TXst   1156
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:45:11 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   8203
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:45:12 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   2747
+guid:0x29E95A693C6802B8 time: Sat Aug 07 08:45:12 2010  severity:0 type:2 app:cmime data:RXCd   469093812
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 08:45:12 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451398
+guid:0x166C870F1691C777 time: Sat Aug 07 08:45:12 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:45:17 2010  severity:0 type:2 app:net.rim.ippp data:TXst   57
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:45:17 2010  severity:0 type:2 app:net.rim.ippp data:TXca
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:45:18 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   41
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:45:18 2010  severity:3 type:2 app:net.rim.ippp data:RXnp
+guid:0x29E95A693C6802B8 time: Sat Aug 07 08:45:19 2010  severity:0 type:2 app:cmime data:RXCd   469093885
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 08:45:19 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451397
+guid:0x166C870F1691C777 time: Sat Aug 07 08:45:19 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0xCB039F26E560F62D time: Sat Aug 07 08:45:20 2010  severity:0 type:2 app:net.rim.memclean data:FrmF
+guid:0xCB039F26E560F62D time: Sat Aug 07 08:45:20 2010  severity:0 type:2 app:net.rim.memclean data:FrmF
+guid:0xCB039F26E560F62D time: Sat Aug 07 08:45:20 2010  severity:0 type:2 app:net.rim.memclean data:FrmF
+guid:0xCB039F26E560F62D time: Sat Aug 07 08:45:20 2010  severity:0 type:2 app:net.rim.memclean data:FrmF
+guid:0xCB039F26E560F62D time: Sat Aug 07 08:45:20 2010  severity:0 type:2 app:net.rim.memclean data:FrmF
+guid:0xCB039F26E560F62D time: Sat Aug 07 08:45:21 2010  severity:0 type:2 app:net.rim.memclean data:FrmF
+guid:0xCB039F26E560F62D time: Sat Aug 07 08:45:21 2010  severity:0 type:2 app:net.rim.memclean data:FrmF
+guid:0xCB039F26E560F62D time: Sat Aug 07 08:45:21 2010  severity:0 type:2 app:net.rim.memclean data:FrmF
+guid:0xCB039F26E560F62D time: Sat Aug 07 08:45:21 2010  severity:0 type:2 app:net.rim.memclean data:FrmF
+guid:0xCB039F26E560F62D time: Sat Aug 07 08:45:21 2010  severity:0 type:2 app:net.rim.memclean data:FrmF
+guid:0xCB039F26E560F62D time: Sat Aug 07 08:45:21 2010  severity:0 type:2 app:net.rim.memclean data:FrmF
+guid:0xCB039F26E560F62D time: Sat Aug 07 08:46:03 2010  severity:0 type:2 app:net.rim.memclean data:FrmF
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:46:20 2010  severity:0 type:2 app:BBM data:RXCd 0x8b62701a
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:46:29 2010  severity:0 type:2 app:BBM data:RXCd 0x3a1ba2af
+guid:0x67FA59146751EBD2 time: Sat Aug 07 08:46:52 2010  severity:0 type:2 app:BBG data:RXCd 0x20eb191f4e85d7cb
+guid:0x67FA59146751EBD2 time: Sat Aug 07 08:46:52 2010  severity:0 type:2 app:BBG data:GTrx  552278303 494
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:47:06 2010  severity:0 type:2 app:BBM data:RXCd 0x30123c58
+guid:0x67FA59146751EBD2 time: Sat Aug 07 08:47:16 2010  severity:0 type:2 app:BBG data:RXCd 0x20eb191f6c13f217
+guid:0x67FA59146751EBD2 time: Sat Aug 07 08:47:16 2010  severity:0 type:2 app:BBG data:GTrx  552278303 493
+guid:0x67FA59146751EBD2 time: Sat Aug 07 08:47:16 2010  severity:0 type:2 app:BBG data:RXCd 0x262989d837374e24
+guid:0x67FA59146751EBD2 time: Sat Aug 07 08:47:17 2010  severity:0 type:2 app:BBG data:GTrx  640256472 806
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 08:47:53 2010  severity:0 type:2 app:BBM data:TXst 0x6f244da0
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 08:47:56 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x29E95A693C6802B8 time: Sat Aug 07 08:47:59 2010  severity:0 type:2 app:cmime data:RXCd   469094800
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 08:47:59 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451396
+guid:0x166C870F1691C777 time: Sat Aug 07 08:47:59 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x29E95A693C6802B8 time: Sat Aug 07 08:48:34 2010  severity:0 type:2 app:cmime data:RXCd   469095031
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 08:48:34 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451395
+guid:0x166C870F1691C777 time: Sat Aug 07 08:48:34 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x389FE34834FB0EDF time: Sat Aug 07 08:48:35 2010  severity:3 type:2 app:net.rim.mdp data:RDpd
+guid:0x389FE34834FB0EDF time: Sat Aug 07 08:48:35 2010  severity:3 type:2 app:net.rim.mdp data:RDpd
+guid:0x29E95A693C6802B8 time: Sat Aug 07 08:49:16 2010  severity:0 type:2 app:cmime data:RXCd   469095287
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 08:49:16 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451394
+guid:0x166C870F1691C777 time: Sat Aug 07 08:49:17 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x29E95A693C6802B8 time: Sat Aug 07 08:49:24 2010  severity:0 type:2 app:cmime data:RXCd   469095366
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 08:49:24 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451393
+guid:0x166C870F1691C777 time: Sat Aug 07 08:49:24 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 08:49:59 2010  severity:0 type:2 app:System data:VM:+GC RX=8M,RF=15.3M,FF=59.4M,OF=192.6K,OS=15.6M,ON=386.3K,OR=0,FR=167.8K,TR=91.9K,RR=11,IS=17.3K RA=19.2M,RS=15.6M,RN=80.9K TA=19.2M,TS=0,TN=124.4K PA=0,PS=0,PN=140.2K R0=55M,1=800.2K,2=20K,3=125.3K,4=1.9M,7=412.4K,8=6K,9=16.7M,10=24.6K,11=108K,12=362.7K,13=54.4K,14=86.7K,15=371.2K,20=4.7K,21=780,22=86.8K,23=105.4K,24=16.5K
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 08:50:01 2010  severity:0 type:2 app:System data:-GCt=176,b=1,r=12,g=t,w=8,u=0,c=0
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 08:50:01 2010  severity:0 type:2 app:System data:VM:+GC RX=8M,RF=15.3M,FF=59.4M,OF=192.6K,OS=15.6M,ON=386.3K,OR=0,FR=167.8K,TR=91.9K,RR=11,IS=17.3K RA=19.2M,RS=15.6M,RN=80.9K TA=19.2M,TS=0,TN=124.4K PA=0,PS=0,PN=140.2K R0=55M,1=800.2K,2=20K,3=125.3K,4=1.9M,7=412.4K,8=6K,9=16.7M,10=24.6K,11=108K,12=362.7K,13=54.4K,14=86.7K,15=371.2K,20=4.7K,21=780,22=86.8K,23=105.4K,24=16.5K
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 08:50:01 2010  severity:0 type:2 app:System data:-GCt=51,b=1,r=12,g=t,w=8,u=0,c=0
+guid:0x7D52B2987EC80054 time: Sat Aug 07 08:50:02 2010  severity:0 type:2 app:net.rim.fd data:FDOn   1
+guid:0x7D52B2987EC80054 time: Sat Aug 07 08:50:02 2010  severity:0 type:2 app:net.rim.fd data:FDOf
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:50:02 2010  severity:0 type:2 app:net.rim.ippp data:TXst   530
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:50:02 2010  severity:0 type:2 app:net.rim.ippp data:TXst   537
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:50:04 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   2413
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:50:05 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   11
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:50:05 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   6887
+guid:0x7D52B2987EC80054 time: Sat Aug 07 08:50:05 2010  severity:0 type:2 app:net.rim.fd data:FDOn   0
+guid:0x29E95A693C6802B8 time: Sat Aug 07 08:50:16 2010  severity:0 type:2 app:cmime data:TXst   1864650147
+guid:0x389FE34834FB0EDF time: Sat Aug 07 08:50:21 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 08:50:22 2010  severity:0 type:2 app:net.rim.mdp data:TXaw
+guid:0x29E95A693C6802B8 time: Sat Aug 07 08:50:23 2010  severity:0 type:2 app:cmime data:RXCd   469095833
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 08:50:24 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451392
+guid:0x166C870F1691C777 time: Sat Aug 07 08:50:24 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x389FE34834FB0EDF time: Sat Aug 07 08:50:25 2010  severity:0 type:2 app:net.rim.mdp data:TXrw
+guid:0x29E95A693C6802B8 time: Sat Aug 07 08:50:32 2010  severity:0 type:2 app:cmime data:RXCd   469095922
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 08:50:32 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451391
+guid:0x166C870F1691C777 time: Sat Aug 07 08:50:32 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x29E95A693C6802B8 time: Sat Aug 07 08:50:45 2010  severity:0 type:2 app:cmime data:RXCd   469096040
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 08:50:45 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451390
+guid:0x166C870F1691C777 time: Sat Aug 07 08:50:45 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x29E95A693C6802B8 time: Sat Aug 07 08:50:46 2010  severity:0 type:2 app:cmime data:RXCd   469096067
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 08:50:46 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451389
+guid:0x166C870F1691C777 time: Sat Aug 07 08:50:46 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x29E95A693C6802B8 time: Sat Aug 07 08:50:47 2010  severity:0 type:2 app:cmime data:RXCd   469096080
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 08:50:47 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451388
+guid:0x166C870F1691C777 time: Sat Aug 07 08:50:47 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x29E95A693C6802B8 time: Sat Aug 07 08:50:53 2010  severity:0 type:2 app:cmime data:RXCd   469096132
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 08:50:53 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451387
+guid:0x166C870F1691C777 time: Sat Aug 07 08:50:53 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 08:51:01 2010  severity:0 type:2 app:System data:VM:+GC RX=8M,RF=14M,FF=59.4M,OF=172.6K,OS=17.7M,ON=406.3K,OR=0,FR=347.6K,TR=91.9K,RR=17,IS=17.3K RA=20.5M,RS=17.7M,RN=100.4K TA=19.2M,TS=0,TN=124.4K PA=0,PS=0,PN=140.6K R0=55M,1=800.2K,2=20K,3=125.3K,4=1.9M,7=412.4K,8=6K,9=17.9M,10=25.1K,11=108.9K,12=362.7K,13=55.6K,14=86.7K,15=371.2K,20=4.7K,21=780,22=86.8K,23=105.4K,24=16.5K
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 08:51:22 2010  severity:0 type:2 app:System data:VM:-GC RX=8M,RF=15.6M,FF=59.3M,OF=195.9K,OS=15.3M,ON=383K,OR=0,FR=0,TR=0,RR=0,IS=16.8K RA=18.9M,RS=15.3M,RN=80K TA=19.3M,TS=0,TN=124.7K PA=0,PS=0,PN=139.1K R0=55M,1=800.2K,2=20K,3=125.3K,4=1.9M,7=412.4K,8=6K,9=16.4M,10=25.1K,11=108.9K,12=362.7K,13=54.1K,14=86.7K,15=371.2K,20=4.7K,21=780,22=86.8K,23=105.4K,24=16.5K
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 08:51:22 2010  severity:0 type:2 app:System data:-GCt=2016,b=1,r=0,g=t,w=8,u=0,c=0
+guid:0x29E95A693C6802B8 time: Sat Aug 07 08:51:24 2010  severity:0 type:2 app:cmime data:RXCd   469096206
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 08:51:24 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451386
+guid:0x166C870F1691C777 time: Sat Aug 07 08:51:24 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x29E95A693C6802B8 time: Sat Aug 07 08:51:25 2010  severity:0 type:2 app:cmime data:RXCd   469096353
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 08:51:25 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451385
+guid:0x166C870F1691C777 time: Sat Aug 07 08:51:25 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x29E95A693C6802B8 time: Sat Aug 07 08:51:29 2010  severity:0 type:2 app:cmime data:RXCd   469096522
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 08:51:29 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451384
+guid:0x166C870F1691C777 time: Sat Aug 07 08:51:29 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x29E95A693C6802B8 time: Sat Aug 07 08:51:37 2010  severity:0 type:2 app:cmime data:RXCd   469096581
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 08:51:37 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451383
+guid:0x166C870F1691C777 time: Sat Aug 07 08:51:37 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x29E95A693C6802B8 time: Sat Aug 07 08:51:38 2010  severity:0 type:2 app:cmime data:RXCd   469096617
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 08:51:39 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451382
+guid:0x166C870F1691C777 time: Sat Aug 07 08:51:39 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x29E95A693C6802B8 time: Sat Aug 07 08:51:45 2010  severity:0 type:2 app:cmime data:RXCd   469096686
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 08:51:45 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451381
+guid:0x166C870F1691C777 time: Sat Aug 07 08:51:45 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x29E95A693C6802B8 time: Sat Aug 07 08:51:47 2010  severity:0 type:2 app:cmime data:RXCd   469096713
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 08:51:47 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451380
+guid:0x166C870F1691C777 time: Sat Aug 07 08:51:47 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 08:52:00 2010  severity:0 type:2 app:System data:VM:+RRi RX=8M,RF=15.6M,FF=59.3M,OF=195.7K,OS=15.3M,ON=383.2K,OR=0,FR=3.7K,TR=12.1K,RR=0,IS=16.8K RA=18.9M,RS=15.3M,RN=80K TA=19.3M,TS=0,TN=124.7K PA=0,PS=0,PN=139.3K R0=55M,1=800.2K,2=20K,3=125.3K,4=1.9M,7=412.4K,8=6K,9=16.4M,10=24.8K,11=108.2K,12=362.7K,13=54.1K,14=86.7K,15=371.2K,20=4.7K,21=780,22=86.8K,23=105.4K,24=16.5K
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 08:52:00 2010  severity:0 type:2 app:System data:VM:-RR RX=8M,RF=16M,FF=59M,OF=195.7K,OS=15M,ON=383.2K,OR=0,FR=3.7K,TR=12.1K,RR=0,IS=16.8K RA=18.6M,RS=15M,RN=76.8K TA=19.7M,TS=0,TN=128K PA=0,PS=0,PN=139.3K R0=55M,1=800.2K,2=20K,3=125.3K,4=1.9M,7=412.4K,8=6K,9=16M,10=24.8K,11=108.2K,12=362.7K,13=54.1K,14=86.7K,15=371.2K,20=4.7K,21=780,22=86.8K,23=105.4K,24=16.5K
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 08:52:02 2010  severity:0 type:2 app:System data:VM:+RRi RX=8M,RF=16M,FF=59M,OF=195.7K,OS=15M,ON=383.2K,OR=0,FR=3.7K,TR=12.1K,RR=0,IS=16.8K RA=18.6M,RS=15M,RN=76.8K TA=19.7M,TS=0,TN=128K PA=0,PS=0,PN=139.3K R0=55M,1=800.2K,2=20K,3=125.3K,4=1.9M,7=412.4K,8=6K,9=16M,10=24.8K,11=108.2K,12=362.7K,13=54.1K,14=86.7K,15=371.2K,20=4.7K,21=780,22=86.8K,23=105.4K,24=16.5K
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 08:52:02 2010  severity:0 type:2 app:System data:VM:-RR RX=8M,RF=16.3M,FF=58.6M,OF=195.7K,OS=14.6M,ON=383.2K,OR=0,FR=3.7K,TR=12.1K,RR=0,IS=16.8K RA=18.2M,RS=14.6M,RN=72.8K TA=20M,TS=0,TN=132K PA=0,PS=0,PN=139.3K R0=55M,1=800.2K,2=20K,3=125.3K,4=1.9M,7=412.4K,8=6K,9=15.7M,10=24.8K,11=108.2K,12=362.7K,13=54.1K,14=86.7K,15=371.2K,20=4.7K,21=780,22=86.8K,23=105.4K,24=16.5K
+guid:0x29E95A693C6802B8 time: Sat Aug 07 08:52:30 2010  severity:0 type:2 app:cmime data:RXCd   469097065
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 08:52:30 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451379
+guid:0x166C870F1691C777 time: Sat Aug 07 08:52:30 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x7D52B2987EC80054 time: Sat Aug 07 08:52:34 2010  severity:0 type:2 app:net.rim.fd data:FDOf
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:52:34 2010  severity:0 type:2 app:net.rim.ippp data:TXst   621
+guid:0x389FE34834FB0EDF time: Sat Aug 07 08:52:40 2010  severity:3 type:2 app:net.rim.mdp data:TNda
+guid:0x389FE34834FB0EDF time: Sat Aug 07 08:52:40 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x29E95A693C6802B8 time: Sat Aug 07 08:52:41 2010  severity:0 type:2 app:cmime data:RXCd   469097125
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 08:52:41 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451378
+guid:0x166C870F1691C777 time: Sat Aug 07 08:52:41 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x67FA59146751EBD2 time: Sat Aug 07 08:52:41 2010  severity:0 type:2 app:BBG data:RXCd 0x21e47f058b653347
+guid:0x67FA59146751EBD2 time: Sat Aug 07 08:52:41 2010  severity:0 type:2 app:BBG data:GTrx  568622853 830
+guid:0x389FE34834FB0EDF time: Sat Aug 07 08:52:44 2010  severity:3 type:2 app:net.rim.mdp data:RDpd
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:52:44 2010  severity:0 type:2 app:net.rim.ippp data:TxSC
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:52:45 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   8203
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:52:47 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   652
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 08:52:49 2010  severity:0 type:2 app:net.rim.gme data:RXCo
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:52:49 2010  severity:0 type:2 app:net.rim.ippp data:TXst   818
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:52:51 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   8203
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 08:52:53 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   12586
+guid:0x29E95A693C6802B8 time: Sat Aug 07 08:53:16 2010  severity:0 type:2 app:cmime data:RXCd   469097428
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 08:53:16 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451377
+guid:0x166C870F1691C777 time: Sat Aug 07 08:53:16 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 08:54:00 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x29E95A693C6802B8 time: Sat Aug 07 08:54:58 2010  severity:0 type:2 app:cmime data:RXCd   469098144
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 08:54:59 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451376
+guid:0x166C870F1691C777 time: Sat Aug 07 08:54:59 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x7D52B2987EC80054 time: Sat Aug 07 08:55:00 2010  severity:0 type:2 app:net.rim.fd data:FDOn   1
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 08:57:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x67FA59146751EBD2 time: Sat Aug 07 08:58:35 2010  severity:0 type:2 app:BBG data:RXCd 0x20eb191f164e9247
+guid:0x67FA59146751EBD2 time: Sat Aug 07 08:58:35 2010  severity:0 type:2 app:BBG data:GTrx  552278303 491
+guid:0x7D52B2987EC80054 time: Sat Aug 07 08:58:35 2010  severity:0 type:2 app:net.rim.fd data:FDOf
+guid:0x29E95A693C6802B8 time: Sat Aug 07 08:58:59 2010  severity:0 type:2 app:cmime data:RXCd   469100142
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 08:58:59 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451375
+guid:0x166C870F1691C777 time: Sat Aug 07 08:58:59 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:00:20 2010  severity:0 type:2 app:BBG data:RXCd 0x21614b1e765d42c7
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:00:20 2010  severity:0 type:2 app:BBG data:GTrx  560024350 490
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:00:22 2010  severity:0 type:2 app:BBG data:RXCd 0x21614b1e5771701b
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:00:22 2010  severity:0 type:2 app:BBG data:GTrx  560024350 466
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:01:36 2010  severity:0 type:2 app:BBG data:RXCd 0x21614b1e6c19f6e1
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:01:36 2010  severity:0 type:2 app:BBG data:GTrx  560024350 534
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 09:02:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x29E95A693C6802B8 time: Sat Aug 07 09:03:50 2010  severity:0 type:2 app:cmime data:RXCd   469102129
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 09:03:51 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147461396
+guid:0x166C870F1691C777 time: Sat Aug 07 09:03:51 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x29E95A693C6802B8 time: Sat Aug 07 09:03:52 2010  severity:0 type:2 app:cmime data:RXCd   469102147
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 09:04:00 2010  severity:0 type:2 app:System data:VM:+GC RX=8M,RF=16.2M,FF=58.5M,OF=192.9K,OS=14.9M,ON=386K,OR=0,FR=112.4K,TR=160.8K,RR=0,IS=17K RA=18.3M,RS=14.9M,RN=75.2K TA=20M,TS=0,TN=131.1K PA=0,PS=0,PN=140.5K R0=55M,1=800.2K,2=20K,3=125.3K,4=1.9M,7=412.4K,8=6K,9=15.8M,10=24.8K,11=108.2K,12=362.7K,13=54.1K,14=86.7K,15=371.2K,20=4.7K,21=780,22=86.8K,23=105.4K,24=16.5K
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 09:04:20 2010  severity:0 type:2 app:System data:VM:-GC RX=8M,RF=16.2M,FF=58.8M,OF=196.9K,OS=14.8M,ON=382K,OR=0,FR=0,TR=0,RR=0,IS=16.8K RA=18.3M,RS=14.8M,RN=72.7K TA=19.8M,TS=0,TN=131.1K PA=0,PS=0,PN=139.2K R0=55M,1=800.2K,2=20K,3=125.3K,4=1.9M,7=412.4K,8=6K,9=15.8M,10=24.8K,11=108.2K,12=362.7K,13=54K,14=86.7K,15=371.2K,20=4.7K,21=780,22=86.8K,23=105.4K,24=16.5K
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 09:04:20 2010  severity:0 type:2 app:System data:-GCt=1942,b=1,r=0,g=t,w=8,u=0,c=0
+guid:0x7D52B2987EC80054 time: Sat Aug 07 09:04:21 2010  severity:0 type:2 app:net.rim.fd data:FDOn   1
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:05:41 2010  severity:0 type:2 app:BBG data:RXCd 0x21614b1e45d54871
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:05:41 2010  severity:0 type:2 app:BBG data:GTrx  560024350 466
+guid:0x7D52B2987EC80054 time: Sat Aug 07 09:05:41 2010  severity:0 type:2 app:net.rim.fd data:FDOf
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 09:06:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:06:34 2010  severity:0 type:2 app:BBG data:RXCd 0x21614b1e1cfd80e8
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:06:34 2010  severity:0 type:2 app:BBG data:GTrx  560024350 541
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 09:07:02 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 09:08:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 09:09:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x7D52B2987EC80054 time: Sat Aug 07 09:09:01 2010  severity:0 type:2 app:net.rim.fd data:FDOn   1
+guid:0x29E95A693C6802B8 time: Sat Aug 07 09:09:31 2010  severity:0 type:2 app:cmime data:RXCd   469104284
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 09:09:31 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451374
+guid:0x166C870F1691C777 time: Sat Aug 07 09:09:31 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 09:09:53 2010  severity:0 type:2 app:BBM data:RXCd 0x3a259b98
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 09:09:53 2010  severity:0 type:2 app:BBM data:TXst 0x6f244da7
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 09:09:54 2010  severity:0 type:2 app:BBM data:TXst 0x6f244da8
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 09:09:59 2010  severity:0 type:2 app:BBM data:TXst 0x6f244da9
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 09:10:00 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 09:11:00 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:11:02 2010  severity:0 type:2 app:BBG data:RXCd 0x21e4fa5c297fcddb
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:11:02 2010  severity:0 type:2 app:BBG data:GTrx  568654428 493
+guid:0x7D52B2987EC80054 time: Sat Aug 07 09:11:02 2010  severity:0 type:2 app:net.rim.fd data:FDOf
+guid:0x29E95A693C6802B8 time: Sat Aug 07 09:11:11 2010  severity:0 type:2 app:cmime data:RXCd   469104827
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 09:11:12 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451373
+guid:0x166C870F1691C777 time: Sat Aug 07 09:11:12 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x29E95A693C6802B8 time: Sat Aug 07 09:11:19 2010  severity:0 type:2 app:cmime data:RXCd   469104886
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 09:11:19 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451372
+guid:0x166C870F1691C777 time: Sat Aug 07 09:11:19 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x29E95A693C6802B8 time: Sat Aug 07 09:11:28 2010  severity:0 type:2 app:cmime data:RXCd   469104935
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 09:11:28 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451371
+guid:0x166C870F1691C777 time: Sat Aug 07 09:11:28 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x389FE34834FB0EDF time: Sat Aug 07 09:11:29 2010  severity:3 type:2 app:net.rim.mdp data:RDpd
+guid:0x29E95A693C6802B8 time: Sat Aug 07 09:11:36 2010  severity:0 type:2 app:cmime data:RXCd   469104984
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 09:11:36 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451370
+guid:0x166C870F1691C777 time: Sat Aug 07 09:11:36 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x389FE34834FB0EDF time: Sat Aug 07 09:11:36 2010  severity:3 type:2 app:net.rim.mdp data:RDpd
+guid:0x29E95A693C6802B8 time: Sat Aug 07 09:11:44 2010  severity:0 type:2 app:cmime data:RXCd   469105046
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 09:11:44 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451369
+guid:0x166C870F1691C777 time: Sat Aug 07 09:11:44 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x389FE34834FB0EDF time: Sat Aug 07 09:11:45 2010  severity:3 type:2 app:net.rim.mdp data:RDpd
+guid:0x29E95A693C6802B8 time: Sat Aug 07 09:11:46 2010  severity:0 type:2 app:cmime data:RXCd   469105066
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 09:11:46 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451368
+guid:0x166C870F1691C777 time: Sat Aug 07 09:11:46 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x29E95A693C6802B8 time: Sat Aug 07 09:11:47 2010  severity:0 type:2 app:cmime data:RXCd   469105078
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 09:11:47 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451367
+guid:0x166C870F1691C777 time: Sat Aug 07 09:11:47 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x389FE34834FB0EDF time: Sat Aug 07 09:11:48 2010  severity:3 type:2 app:net.rim.mdp data:RDpd
+guid:0x29E95A693C6802B8 time: Sat Aug 07 09:11:57 2010  severity:0 type:2 app:cmime data:RXCd   469105140
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 09:11:57 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451366
+guid:0x166C870F1691C777 time: Sat Aug 07 09:11:57 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x29E95A693C6802B8 time: Sat Aug 07 09:11:59 2010  severity:0 type:2 app:cmime data:RXCd   469105182
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 09:11:59 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451365
+guid:0x166C870F1691C777 time: Sat Aug 07 09:11:59 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x29E95A693C6802B8 time: Sat Aug 07 09:12:10 2010  severity:0 type:2 app:cmime data:RXCd   469105300
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 09:12:10 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451364
+guid:0x166C870F1691C777 time: Sat Aug 07 09:12:10 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x29E95A693C6802B8 time: Sat Aug 07 09:12:12 2010  severity:0 type:2 app:cmime data:RXCd   469105331
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 09:12:13 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451363
+guid:0x166C870F1691C777 time: Sat Aug 07 09:12:13 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x29E95A693C6802B8 time: Sat Aug 07 09:12:14 2010  severity:0 type:2 app:cmime data:RXCd   469105369
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 09:12:14 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451362
+guid:0x166C870F1691C777 time: Sat Aug 07 09:12:14 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x29E95A693C6802B8 time: Sat Aug 07 09:12:20 2010  severity:0 type:2 app:cmime data:RXCd   469105415
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 09:12:20 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451361
+guid:0x166C870F1691C777 time: Sat Aug 07 09:12:20 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x29E95A693C6802B8 time: Sat Aug 07 09:12:22 2010  severity:0 type:2 app:cmime data:RXCd   469105431
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 09:12:22 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451360
+guid:0x166C870F1691C777 time: Sat Aug 07 09:12:22 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x7D52B2987EC80054 time: Sat Aug 07 09:14:00 2010  severity:0 type:2 app:net.rim.fd data:FDOn   1
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 09:14:03 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:14:08 2010  severity:0 type:2 app:BBG data:RXCd 0x21614b1e742201ea
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:14:08 2010  severity:0 type:2 app:BBG data:GTrx  560024350 466
+guid:0x7D52B2987EC80054 time: Sat Aug 07 09:14:08 2010  severity:0 type:2 app:net.rim.fd data:FDOf
+guid:0x29E95A693C6802B8 time: Sat Aug 07 09:14:20 2010  severity:0 type:2 app:cmime data:RXCd   469106158
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 09:14:20 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451359
+guid:0x166C870F1691C777 time: Sat Aug 07 09:14:20 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x389FE34834FB0EDF time: Sat Aug 07 09:14:21 2010  severity:3 type:2 app:net.rim.mdp data:RDpd
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 09:14:36 2010  severity:0 type:2 app:net.rim.blackberryemail data:PWDE   -2147451359
+guid:0xEF8DDFFA1AD2F740 time: Sat Aug 07 09:14:36 2010  severity:0 type:2 app:AutoHolsterViewerListener data:OHNM
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:14:41 2010  severity:0 type:2 app:BBG data:#GCM 0xb4
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:15:06 2010  severity:0 type:2 app:BBG data:RXCd 0x21614b1e1d010a69
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:15:06 2010  severity:0 type:2 app:BBG data:GTrx  560024350 540
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:15:12 2010  severity:0 type:2 app:BBG data:RXCd 0x21614b1e5b01d557
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:15:12 2010  severity:0 type:2 app:BBG data:GTrx  560024350 466
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:15:37 2010  severity:0 type:2 app:BBG data:RXCd 0x21614b1e6c201725
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:15:37 2010  severity:0 type:2 app:BBG data:GTrx  560024350 518
+guid:0x29E95A693C6802B8 time: Sat Aug 07 09:15:41 2010  severity:0 type:2 app:cmime data:RXCd   469106660
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 09:15:41 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451358
+guid:0x166C870F1691C777 time: Sat Aug 07 09:15:41 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x29E95A693C6802B8 time: Sat Aug 07 09:16:27 2010  severity:0 type:2 app:cmime data:TXst   1864650154
+guid:0x389FE34834FB0EDF time: Sat Aug 07 09:16:32 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 09:16:33 2010  severity:0 type:2 app:net.rim.mdp data:TXaw
+guid:0x389FE34834FB0EDF time: Sat Aug 07 09:16:45 2010  severity:0 type:2 app:net.rim.mdp data:TXrw
+guid:0x29E95A693C6802B8 time: Sat Aug 07 09:17:34 2010  severity:0 type:2 app:cmime data:TXst   1864650155
+guid:0x389FE34834FB0EDF time: Sat Aug 07 09:17:40 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 09:17:40 2010  severity:0 type:2 app:net.rim.mdp data:TXaw
+guid:0x389FE34834FB0EDF time: Sat Aug 07 09:17:41 2010  severity:0 type:2 app:net.rim.mdp data:TXrw
+guid:0x7D52B2987EC80054 time: Sat Aug 07 09:18:00 2010  severity:0 type:2 app:net.rim.fd data:FDOn   1
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 09:18:04 2010  severity:0 type:2 app:BBM data:RXCd 0x399ccd4a
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 09:18:04 2010  severity:0 type:2 app:BBM data:TXst 0x6f244dac
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:18:06 2010  severity:0 type:2 app:BBG data:RXCd 0x20db5e4747af3e63
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:18:06 2010  severity:0 type:2 app:BBG data:GTrx  551247431 793
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 09:18:06 2010  severity:0 type:2 app:BBM data:TXst 0x6f244dad
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 09:18:09 2010  severity:0 type:2 app:BBM data:TXst 0x6f244dae
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 09:18:12 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:18:26 2010  severity:0 type:2 app:BBG data:RXCd 0x21e4fa5c60118355
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:18:26 2010  severity:0 type:2 app:BBG data:GTrx  568654428 487
+guid:0x7D52B2987EC80054 time: Sat Aug 07 09:18:27 2010  severity:0 type:2 app:net.rim.fd data:FDOf
+guid:0x29E95A693C6802B8 time: Sat Aug 07 09:18:28 2010  severity:0 type:2 app:cmime data:RXCd   485688307
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 09:18:28 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451357
+guid:0x166C870F1691C777 time: Sat Aug 07 09:18:28 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:18:29 2010  severity:0 type:2 app:BBG data:RXCd 0x21e4fa5c85ab9eb2
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:18:29 2010  severity:0 type:2 app:BBG data:GTrx  568654428 493
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:18:33 2010  severity:0 type:2 app:BBG data:RXCd 0x21e4fa5c60119335
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:18:33 2010  severity:0 type:2 app:BBG data:GTrx  568654428 477
+guid:0x29E95A693C6802B8 time: Sat Aug 07 09:18:41 2010  severity:0 type:2 app:cmime data:RXCd   485688397
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 09:18:41 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451356
+guid:0x166C870F1691C777 time: Sat Aug 07 09:18:41 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:18:51 2010  severity:0 type:2 app:BBG data:RXCd 0x21e4fa5c57796906
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:18:51 2010  severity:0 type:2 app:BBG data:GTrx  568654428 478
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:18:53 2010  severity:0 type:2 app:BBG data:RXCd 0x21e4fa5c2a3830f2
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:18:53 2010  severity:0 type:2 app:BBG data:GTrx  568654428 483
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:18:58 2010  severity:0 type:2 app:BBG data:RXCd 0x21e4fa5c2bf2c4e1
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:18:58 2010  severity:0 type:2 app:BBG data:GTrx  568654428 490
+guid:0x29E95A693C6802B8 time: Sat Aug 07 09:19:24 2010  severity:0 type:2 app:cmime data:TXst   1864650159
+guid:0x29E95A693C6802B8 time: Sat Aug 07 09:19:29 2010  severity:0 type:2 app:cmime data:TXst   1864650160
+guid:0x389FE34834FB0EDF time: Sat Aug 07 09:19:34 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 09:19:35 2010  severity:0 type:2 app:net.rim.mdp data:TXaw
+guid:0x29E95A693C6802B8 time: Sat Aug 07 09:19:46 2010  severity:0 type:2 app:cmime data:TXst   1864650161
+guid:0x389FE34834FB0EDF time: Sat Aug 07 09:19:47 2010  severity:0 type:2 app:net.rim.mdp data:TXrw
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 09:20:00 2010  severity:0 type:2 app:net.rim.ippp data:TXst   529
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 09:20:00 2010  severity:0 type:2 app:net.rim.ippp data:TXst   535
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 09:20:02 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   2414
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 09:20:03 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   6944
+guid:0x29E95A693C6802B8 time: Sat Aug 07 09:20:48 2010  severity:0 type:2 app:cmime data:RXCd   485689123
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 09:20:48 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451355
+guid:0x166C870F1691C777 time: Sat Aug 07 09:20:48 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x7D52B2987EC80054 time: Sat Aug 07 09:21:00 2010  severity:0 type:2 app:net.rim.fd data:FDOn   1
+guid:0x29E95A693C6802B8 time: Sat Aug 07 09:21:01 2010  severity:0 type:2 app:cmime data:TXst   1864650164
+guid:0x389FE34834FB0EDF time: Sat Aug 07 09:21:06 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 09:21:07 2010  severity:0 type:2 app:net.rim.mdp data:TXaw
+guid:0x389FE34834FB0EDF time: Sat Aug 07 09:21:17 2010  severity:0 type:2 app:net.rim.mdp data:TXrw
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:21:45 2010  severity:0 type:2 app:BBG data:#GCM 0xbc
+guid:0x29E95A693C6802B8 time: Sat Aug 07 09:21:50 2010  severity:0 type:2 app:cmime data:TXst   1864650165
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:22:04 2010  severity:0 type:2 app:BBG data:#GCM 0xbc
+guid:0x7D52B2987EC80054 time: Sat Aug 07 09:22:26 2010  severity:0 type:2 app:net.rim.fd data:FDOf
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:22:28 2010  severity:0 type:2 app:BBG data:TXst 0x6f244db6
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 09:22:36 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:22:44 2010  severity:0 type:2 app:BBG data:TXst 0x6f244db7
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 09:22:53 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:22:57 2010  severity:0 type:2 app:BBG data:TXst 0x6f244db8
+guid:0x29E95A693C6802B8 time: Sat Aug 07 09:22:59 2010  severity:0 type:2 app:cmime data:RXCd   485689963
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 09:22:59 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451354
+guid:0x166C870F1691C777 time: Sat Aug 07 09:22:59 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 09:23:06 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x29E95A693C6802B8 time: Sat Aug 07 09:23:12 2010  severity:0 type:2 app:cmime data:TXst   1864650169
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:23:50 2010  severity:0 type:2 app:BBG data:#GCM 0xbf
+guid:0x29E95A693C6802B8 time: Sat Aug 07 09:24:30 2010  severity:0 type:2 app:cmime data:RXCd   485690453
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 09:24:30 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451353
+guid:0x166C870F1691C777 time: Sat Aug 07 09:24:30 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 09:24:43 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 09:24:43 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 09:25:00 2010  severity:0 type:2 app:System data:VM:+GC RX=6.6M,RF=13.6M,FF=58.6M,OF=165.4K,OS=18.2M,ON=413.5K,OR=0,FR=462.2K,TR=107.9K,RR=64,IS=17.1K RA=20.9M,RS=18.2M,RN=103.3K TA=19.8M,TS=0,TN=129.3K PA=0,PS=0,PN=140.6K R0=55M,1=800.2K,2=20K,3=125.3K,4=1.9M,7=412.4K,8=6K,9=18.4M,10=24.8K,11=108.5K,12=362.7K,13=57K,14=86.7K,15=371.2K,20=4.7K,21=780,22=86.8K,23=105.4K,24=16.5K
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 09:25:22 2010  severity:0 type:2 app:System data:VM:-GC RX=6.6M,RF=16M,FF=58.5M,OF=198K,OS=15M,ON=380.9K,OR=0,FR=0,TR=0,RR=0,IS=16.8K RA=18.5M,RS=15M,RN=71.9K TA=20M,TS=0,TN=130.5K PA=0,PS=0,PN=139.5K R0=55M,1=800.2K,2=20K,3=125.3K,4=1.9M,7=412.4K,8=6K,9=15.9M,10=24.8K,11=108.5K,12=362.7K,13=54.6K,14=86.7K,15=371.2K,20=4.7K,21=780,22=86.8K,23=105.4K,24=16.5K
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 09:25:22 2010  severity:0 type:2 app:System data:-GCt=2122,b=1,r=0,g=t,w=8,u=0,c=1
+guid:0x7D52B2987EC80054 time: Sat Aug 07 09:25:23 2010  severity:0 type:2 app:net.rim.fd data:FDOn   1
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 09:26:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 09:27:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 09:29:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 09:29:15 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:29:46 2010  severity:0 type:2 app:BBG data:TXst 0x6f244dba
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 09:30:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 09:31:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 09:31:39 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 09:32:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 09:33:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 09:34:00 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x29E95A693C6802B8 time: Sat Aug 07 09:34:54 2010  severity:0 type:2 app:cmime data:RXCd   485694478
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 09:34:55 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451352
+guid:0x166C870F1691C777 time: Sat Aug 07 09:34:55 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 09:35:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 09:35:01 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 09:36:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x646E9F884851A306 time: Sat Aug 07 09:36:01 2010  severity:0 type:2 app:net.rim.vad32 data:ADDR
+guid:0x646E9F884851A306 time: Sat Aug 07 09:36:01 2010  severity:0 type:2 app:net.rim.vad32 data:ACTV 0x101
+guid:0x646E9F884851A306 time: Sat Aug 07 09:36:01 2010  severity:0 type:2 app:net.rim.vad32 data:STRT
+guid:0x646E9F884851A306 time: Sat Aug 07 09:36:01 2010  severity:0 type:2 app:net.rim.vad32 data:STRT 0x0
+guid:0x646E9F884851A306 time: Sat Aug 07 09:36:01 2010  severity:0 type:2 app:net.rim.vad32 data:EVNT 0x0
+guid:0x646E9F884851A306 time: Sat Aug 07 09:36:01 2010  severity:0 type:2 app:net.rim.vad32 data:USEV 0x1
+guid:0x646E9F884851A306 time: Sat Aug 07 09:36:02 2010  severity:0 type:2 app:net.rim.vad32 data:GRBF
+guid:0x646E9F884851A306 time: Sat Aug 07 09:36:02 2010  severity:0 type:2 app:net.rim.vad32 data:CRCB 0x6
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 09:36:04 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x646E9F884851A306 time: Sat Aug 07 09:36:05 2010  severity:0 type:2 app:net.rim.vad32 data:RRBF
+guid:0x646E9F884851A306 time: Sat Aug 07 09:36:05 2010  severity:0 type:2 app:net.rim.vad32 data:CRCB 0x0
+guid:0x646E9F884851A306 time: Sat Aug 07 09:36:05 2010  severity:0 type:2 app:net.rim.vad32 data:EVNT 0x1
+guid:0x646E9F884851A306 time: Sat Aug 07 09:36:05 2010  severity:0 type:2 app:net.rim.vad32 data:ENDE
+guid:0x646E9F884851A306 time: Sat Aug 07 09:36:05 2010  severity:0 type:2 app:net.rim.vad32 data:STOP
+guid:0x646E9F884851A306 time: Sat Aug 07 09:36:05 2010  severity:0 type:2 app:net.rim.vad32 data:USEV 0x3
+guid:0x29E95A693C6802B8 time: Sat Aug 07 09:36:26 2010  severity:0 type:2 app:cmime data:RXCd   485695260
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 09:36:26 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147453568
+guid:0x166C870F1691C777 time: Sat Aug 07 09:36:26 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x29E95A693C6802B8 time: Sat Aug 07 09:36:27 2010  severity:0 type:2 app:cmime data:RXCd   485695284
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 09:37:00 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x29E95A693C6802B8 time: Sat Aug 07 09:37:59 2010  severity:0 type:2 app:cmime data:RXCd   485695690
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 09:38:00 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451351
+guid:0x166C870F1691C777 time: Sat Aug 07 09:38:00 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 09:38:18 2010  severity:0 type:2 app:BBM data:RXCd 0x39aa4d7b
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 09:38:18 2010  severity:0 type:2 app:BBM data:SDIR 0x1748daafe7
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 09:38:18 2010  severity:0 type:2 app:BBM data:TXst 0x6f244dbb
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 09:38:18 2010  severity:3 type:2 app:BBM data:TXto 0x6f244924
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 09:38:19 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 09:38:26 2010  severity:0 type:2 app:BBM data:RXCd 0x33062b45
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 09:38:26 2010  severity:0 type:2 app:BBM data:IROK
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:38:33 2010  severity:0 type:2 app:BBG data:RXCd 0x32151966162c2ba5
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:38:33 2010  severity:0 type:2 app:BBG data:GTrx  840243558 6013
+guid:0x7D52B2987EC80054 time: Sat Aug 07 09:38:34 2010  severity:0 type:2 app:net.rim.fd data:FDOf
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 09:38:47 2010  severity:0 type:2 app:net.rim.blackberryemail data:PWDE   -2147451351
+guid:0xEF8DDFFA1AD2F740 time: Sat Aug 07 09:38:47 2010  severity:0 type:2 app:AutoHolsterViewerListener data:OHNM
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:38:49 2010  severity:0 type:2 app:BBG data:RXCd 0x3215196660bf0d4a
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:38:49 2010  severity:0 type:2 app:BBG data:GTrx  840243558 423
+guid:0x29E95A693C6802B8 time: Sat Aug 07 09:39:13 2010  severity:0 type:2 app:cmime data:TXst   1864650172
+guid:0x29E95A693C6802B8 time: Sat Aug 07 09:39:39 2010  severity:0 type:2 app:cmime data:TXst   1864650173
+guid:0x29E95A693C6802B8 time: Sat Aug 07 09:39:43 2010  severity:0 type:2 app:cmime data:TXst   1864650174
+guid:0x389FE34834FB0EDF time: Sat Aug 07 09:39:49 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 09:41:02 2010  severity:0 type:2 app:System data:VM:+RRi RX=7.7M,RF=16M,FF=58.3M,OF=197.5K,OS=15M,ON=381.4K,OR=0,FR=62.5K,TR=24.2K,RR=4,IS=16.9K RA=18.6M,RS=15M,RN=72.2K TA=20M,TS=0,TN=130.3K PA=0,PS=0,PN=139.6K R0=55M,1=800.2K,2=20K,3=125.3K,4=1.9M,7=412.4K,8=6K,9=16M,10=24.6K,11=108.5K,12=362.7K,13=54.7K,14=86.6K,15=371.2K,20=4.7K,21=780,22=86.8K,23=105.4K,24=16.5K
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 09:41:03 2010  severity:0 type:2 app:System data:VM:-RR RX=7.7M,RF=16.4M,FF=58M,OF=197.5K,OS=14.7M,ON=381.4K,OR=0,FR=62.5K,TR=24.2K,RR=4,IS=16.9K RA=18.2M,RS=14.7M,RN=70.2K TA=20.4M,TS=0,TN=132.3K PA=0,PS=0,PN=139.6K R0=55M,1=800.2K,2=20K,3=125.3K,4=1.9M,7=412.4K,8=6K,9=15.6M,10=24.6K,11=108.5K,12=362.7K,13=54.7K,14=86.6K,15=371.2K,20=4.7K,21=780,22=86.8K,23=105.4K,24=16.5K
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 09:41:04 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x7D52B2987EC80054 time: Sat Aug 07 09:41:04 2010  severity:0 type:2 app:net.rim.fd data:FDOn   1
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 09:43:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 09:44:00 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 09:45:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 09:46:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 09:47:02 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x29E95A693C6802B8 time: Sat Aug 07 09:47:50 2010  severity:0 type:2 app:cmime data:RXCd   485699210
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 09:47:50 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451350
+guid:0x166C870F1691C777 time: Sat Aug 07 09:47:50 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x389FE34834FB0EDF time: Sat Aug 07 09:47:51 2010  severity:3 type:2 app:net.rim.mdp data:RDpd
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 09:48:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 09:49:02 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 09:50:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x7D52B2987EC80054 time: Sat Aug 07 09:50:01 2010  severity:0 type:2 app:net.rim.fd data:FDOf
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 09:50:01 2010  severity:0 type:2 app:net.rim.ippp data:TXst   531
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 09:50:01 2010  severity:0 type:2 app:net.rim.ippp data:TXst   542
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 09:50:03 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   11
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 09:50:04 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   11
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 09:50:06 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   17669
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 09:50:06 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   2414
+guid:0x7D52B2987EC80054 time: Sat Aug 07 09:50:06 2010  severity:0 type:2 app:net.rim.fd data:FDOn   0
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 09:50:18 2010  severity:0 type:2 app:System data:VM:+GC RX=8M,RF=16.1M,FF=57.9M,OF=185.7K,OS=15.7M,ON=393.2K,OR=0,FR=145.7K,TR=141.8K,RR=4,IS=17K RA=18.4M,RS=15.7M,RN=81.6K TA=20.4M,TS=0,TN=132.3K PA=0,PS=0,PN=140.1K R0=55M,1=800.2K,2=20K,3=125.3K,4=1.9M,7=412.4K,8=6K,9=15.9M,10=24.6K,11=108.5K,12=362.7K,13=54.7K,14=86.7K,15=371.2K,20=4.7K,21=780,22=86.8K,23=105.4K,24=16.5K
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 09:50:39 2010  severity:0 type:2 app:System data:VM:-GC RX=8M,RF=16.2M,FF=58.3M,OF=197.9K,OS=14.8M,ON=381K,OR=0,FR=0,TR=0,RR=0,IS=16.8K RA=18.3M,RS=14.8M,RN=70.2K TA=20.2M,TS=0,TN=132.2K PA=0,PS=0,PN=139.5K R0=55M,1=800.2K,2=20K,3=125.3K,4=1.9M,7=412.4K,8=6K,9=15.8M,10=24.6K,11=108.5K,12=362.7K,13=54.6K,14=86.7K,15=371.2K,20=4.7K,21=780,22=86.8K,23=105.4K,24=16.5K
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 09:50:39 2010  severity:0 type:2 app:System data:-GCt=2028,b=1,r=0,g=t,w=8,u=0,c=1
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 09:51:02 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 09:52:01 2010  severity:0 type:2 app:System data:VM:LMMAv=0,w=234600
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 09:52:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:52:07 2010  severity:0 type:2 app:BBG data:RXCd 0x21f6996a3a387848
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:52:07 2010  severity:0 type:2 app:BBG data:GTrx  569809258 15006
+guid:0x7D52B2987EC80054 time: Sat Aug 07 09:52:07 2010  severity:0 type:2 app:net.rim.fd data:FDOf
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:52:51 2010  severity:0 type:2 app:BBG data:TXst 0x6f244dc1
+guid:0x29E95A693C6802B8 time: Sat Aug 07 09:52:54 2010  severity:0 type:2 app:cmime data:TXst   1864650178
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 09:52:59 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0xCB039F26E560F62D time: Sat Aug 07 09:53:01 2010  severity:0 type:2 app:net.rim.memclean data:FrmF
+guid:0xCB039F26E560F62D time: Sat Aug 07 09:53:06 2010  severity:0 type:2 app:net.rim.memclean data:FrmF
+guid:0xCB039F26E560F62D time: Sat Aug 07 09:53:09 2010  severity:0 type:2 app:net.rim.memclean data:FrmF
+guid:0xCB039F26E560F62D time: Sat Aug 07 09:53:09 2010  severity:0 type:2 app:net.rim.memclean data:FrmF
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:53:40 2010  severity:0 type:2 app:BBG data:TXst 0x6f244dc3
+guid:0xCB039F26E560F62D time: Sat Aug 07 09:53:43 2010  severity:0 type:2 app:net.rim.memclean data:FrmF
+guid:0x389FE34834FB0EDF time: Sat Aug 07 09:53:45 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 09:53:45 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 09:53:45 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 09:53:45 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 09:53:45 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 09:53:45 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 09:53:47 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 09:53:50 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 09:53:50 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 09:53:50 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 09:53:51 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0xCB039F26E560F62D time: Sat Aug 07 09:53:51 2010  severity:0 type:2 app:net.rim.memclean data:FrmF
+guid:0x389FE34834FB0EDF time: Sat Aug 07 09:53:52 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 09:53:52 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 09:53:52 2010  severity:3 type:2 app:net.rim.mdp data:TNda
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 09:54:02 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 09:54:03 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 09:54:07 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:54:14 2010  severity:0 type:2 app:BBG data:TXst 0x6f244dc4
+guid:0x389FE34834FB0EDF time: Sat Aug 07 09:54:19 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 09:54:19 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 09:54:19 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x29E95A693C6802B8 time: Sat Aug 07 09:54:21 2010  severity:0 type:2 app:cmime data:RXCd   485701573
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 09:54:22 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147483257
+guid:0x166C870F1691C777 time: Sat Aug 07 09:54:22 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x389FE34834FB0EDF time: Sat Aug 07 09:54:23 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 09:54:24 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 09:54:24 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 09:54:24 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 09:54:25 2010  severity:3 type:2 app:net.rim.mdp data:RDpd
+guid:0x29E95A693C6802B8 time: Sat Aug 07 09:54:25 2010  severity:0 type:2 app:cmime data:RXCd   485701596
+guid:0x389FE34834FB0EDF time: Sat Aug 07 09:54:27 2010  severity:3 type:2 app:net.rim.mdp data:TNda
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:54:37 2010  severity:0 type:2 app:BBG data:RXCd 0x258aaa553796d469
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:54:37 2010  severity:0 type:2 app:BBG data:GTrx  629844565 879
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 09:54:37 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:54:43 2010  severity:0 type:2 app:BBG data:TXst 0x6f244dc5
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 09:54:44 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 09:54:53 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:55:01 2010  severity:0 type:2 app:BBG data:TXst 0x6f244dc6
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 09:55:07 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 09:55:11 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 09:55:15 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:55:32 2010  severity:0 type:2 app:BBG data:RXCd 0x21614b1e4a909fb0
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:55:32 2010  severity:0 type:2 app:BBG data:GTrx  560024350 466
+guid:0x29E95A693C6802B8 time: Sat Aug 07 09:55:37 2010  severity:0 type:2 app:cmime data:TXst   1864650183
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 09:55:39 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 09:56:09 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 09:56:12 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 09:56:12 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:56:16 2010  severity:0 type:2 app:BBG data:RXCd 0x21614b1e4ea3d477
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:56:16 2010  severity:0 type:2 app:BBG data:GTrx  560024350 535
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:56:17 2010  severity:0 type:2 app:BBG data:RXCd 0x21614b1e8d3c8e63
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:56:17 2010  severity:0 type:2 app:BBG data:GTrx  560024350 485
+guid:0x29E95A693C6802B8 time: Sat Aug 07 09:56:56 2010  severity:0 type:2 app:cmime data:RXCd   485702362
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 09:56:56 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147461395
+guid:0x166C870F1691C777 time: Sat Aug 07 09:56:56 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 09:57:00 2010  severity:0 type:2 app:System data:VM:+GC RX=7.9M,RF=15.2M,FF=58.3M,OF=183.9K,OS=16.2M,ON=395K,OR=0,FR=143.5K,TR=169.4K,RR=2,IS=17.1K RA=19.3M,RS=16.2M,RN=77.2K TA=20.1M,TS=0,TN=131.1K PA=0,PS=0,PN=140.8K R0=55M,1=800.2K,2=20K,3=125.3K,4=1.9M,7=413K,8=6K,9=16.8M,10=24.8K,11=108.9K,12=362.7K,13=55.4K,14=86.7K,15=371.2K,20=4.7K,21=780,22=87.1K,23=105.4K,24=16.5K
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 09:57:23 2010  severity:0 type:2 app:System data:VM:-GC RX=7.9M,RF=16.1M,FF=58.2M,OF=195.9K,OS=14.8M,ON=383K,OR=0,FR=0,TR=0,RR=0,IS=16.9K RA=18.4M,RS=14.8M,RN=71.9K TA=20.2M,TS=0,TN=132K PA=0,PS=0,PN=140K R0=55M,1=800.2K,2=20K,3=125.3K,4=1.9M,7=413K,8=6K,9=15.9M,10=24.8K,11=108.9K,12=362.7K,13=54.7K,14=86.7K,15=371.2K,20=4.7K,21=780,22=87.1K,23=105.4K,24=16.5K
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 09:57:23 2010  severity:0 type:2 app:System data:-GCt=2278,b=1,r=0,g=t,w=8,u=0,c=1
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:57:25 2010  severity:0 type:2 app:BBG data:RXCd 0x2162c1877ba34d4f
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:57:25 2010  severity:0 type:2 app:BBG data:GTrx  560120199 650
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:58:04 2010  severity:0 type:2 app:BBG data:RXCd 0x21614b1e3a3b42ea
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:58:04 2010  severity:0 type:2 app:BBG data:GTrx  560024350 492
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:59:04 2010  severity:0 type:2 app:BBG data:#GCM 0xc2
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:59:39 2010  severity:0 type:2 app:BBG data:RXCd 0x21614b1e2ce9a8e3
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:59:39 2010  severity:0 type:2 app:BBG data:GTrx  560024350 466
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:59:48 2010  severity:0 type:2 app:BBG data:RXCd 0x21614b1e1635bc66
+guid:0x67FA59146751EBD2 time: Sat Aug 07 09:59:48 2010  severity:0 type:2 app:BBG data:GTrx  560024350 527
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 10:00:02 2010  severity:0 type:2 app:System data:VM:+RRi RX=8.3M,RF=15.9M,FF=58.3M,OF=194.6K,OS=14.9M,ON=384.3K,OR=0,FR=21.7K,TR=69.4K,RR=0,IS=17K RA=18.6M,RS=14.9M,RN=72.2K TA=20.1M,TS=0,TN=131.7K PA=0,PS=0,PN=140.1K R0=55M,1=800.2K,2=20K,3=125.3K,4=1.9M,7=413K,8=6K,9=16.1M,10=24.6K,11=108.6K,12=362.7K,13=54.8K,14=86.7K,15=371.2K,20=4.7K,21=780,22=87.1K,23=105.4K,24=16.5K
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 10:00:03 2010  severity:0 type:2 app:System data:VM:-RR RX=8.3M,RF=16.3M,FF=58M,OF=194.6K,OS=14.6M,ON=384.3K,OR=0,FR=21.7K,TR=69.4K,RR=0,IS=17K RA=18.2M,RS=14.6M,RN=71.8K TA=20.4M,TS=0,TN=132.1K PA=0,PS=0,PN=140.1K R0=55M,1=800.2K,2=20K,3=125.3K,4=1.9M,7=413K,8=6K,9=15.7M,10=24.6K,11=108.6K,12=362.7K,13=54.8K,14=86.7K,15=371.2K,20=4.7K,21=780,22=87.1K,23=105.4K,24=16.5K
+guid:0x67FA59146751EBD2 time: Sat Aug 07 10:01:25 2010  severity:0 type:2 app:BBG data:RXCd 0x21e4fa5c4399dac2
+guid:0x67FA59146751EBD2 time: Sat Aug 07 10:01:25 2010  severity:0 type:2 app:BBG data:GTrx  568654428 482
+guid:0x67FA59146751EBD2 time: Sat Aug 07 10:01:32 2010  severity:0 type:2 app:BBG data:RXCd 0x21e4fa5c6a843181
+guid:0x67FA59146751EBD2 time: Sat Aug 07 10:01:32 2010  severity:0 type:2 app:BBG data:GTrx  568654428 499
+guid:0x67FA59146751EBD2 time: Sat Aug 07 10:01:38 2010  severity:0 type:2 app:BBG data:RXCd 0x226713db8b9586c3
+guid:0x67FA59146751EBD2 time: Sat Aug 07 10:01:38 2010  severity:0 type:2 app:BBG data:GTrx  577180635 490
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 10:02:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x7D52B2987EC80054 time: Sat Aug 07 10:04:00 2010  severity:0 type:2 app:net.rim.fd data:FDOn   1
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 10:06:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 10:07:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 10:08:00 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x29E95A693C6802B8 time: Sat Aug 07 10:08:56 2010  severity:0 type:2 app:cmime data:RXCd   485706798
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 10:08:57 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451349
+guid:0x166C870F1691C777 time: Sat Aug 07 10:08:57 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x389FE34834FB0EDF time: Sat Aug 07 10:08:57 2010  severity:3 type:2 app:net.rim.mdp data:RDpd
+guid:0x29E95A693C6802B8 time: Sat Aug 07 10:09:05 2010  severity:0 type:2 app:cmime data:RXCd   485706865
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 10:09:05 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451348
+guid:0x166C870F1691C777 time: Sat Aug 07 10:09:05 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x29E95A693C6802B8 time: Sat Aug 07 10:09:07 2010  severity:0 type:2 app:cmime data:RXCd   485706886
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 10:09:07 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451347
+guid:0x166C870F1691C777 time: Sat Aug 07 10:09:07 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x29E95A693C6802B8 time: Sat Aug 07 10:09:08 2010  severity:0 type:2 app:cmime data:RXCd   485706899
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 10:09:09 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451346
+guid:0x166C870F1691C777 time: Sat Aug 07 10:09:09 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x29E95A693C6802B8 time: Sat Aug 07 10:09:10 2010  severity:0 type:2 app:cmime data:RXCd   485706909
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 10:09:11 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451345
+guid:0x166C870F1691C777 time: Sat Aug 07 10:09:11 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x29E95A693C6802B8 time: Sat Aug 07 10:09:12 2010  severity:0 type:2 app:cmime data:RXCd   485706930
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 10:09:12 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451344
+guid:0x166C870F1691C777 time: Sat Aug 07 10:09:12 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x29E95A693C6802B8 time: Sat Aug 07 10:09:14 2010  severity:0 type:2 app:cmime data:RXCd   485706935
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 10:09:14 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451343
+guid:0x166C870F1691C777 time: Sat Aug 07 10:09:14 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x29E95A693C6802B8 time: Sat Aug 07 10:09:35 2010  severity:0 type:2 app:cmime data:RXCd   485707062
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 10:09:36 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147461394
+guid:0x166C870F1691C777 time: Sat Aug 07 10:09:36 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x29E95A693C6802B8 time: Sat Aug 07 10:09:56 2010  severity:0 type:2 app:cmime data:RXCd   485707192
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 10:09:56 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451342
+guid:0x166C870F1691C777 time: Sat Aug 07 10:09:57 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x389FE34834FB0EDF time: Sat Aug 07 10:09:57 2010  severity:3 type:2 app:net.rim.mdp data:RDpd
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 10:10:00 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0xEF8DDFFA1AD2F740 time: Sat Aug 07 10:10:01 2010  severity:0 type:2 app:AutoHolsterViewerListener data:OHNM
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 10:10:01 2010  severity:0 type:2 app:net.rim.blackberryemail data:PWDE   -2147451342
+guid:0x67FA59146751EBD2 time: Sat Aug 07 10:10:18 2010  severity:0 type:2 app:BBG data:#GCM 0xc6
+guid:0x29E95A693C6802B8 time: Sat Aug 07 10:10:30 2010  severity:0 type:2 app:cmime data:TXst   1864650184
+guid:0x29E95A693C6802B8 time: Sat Aug 07 10:10:32 2010  severity:0 type:2 app:cmime data:TXst   1864650185
+guid:0x389FE34834FB0EDF time: Sat Aug 07 10:10:38 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 10:10:39 2010  severity:0 type:2 app:net.rim.mdp data:TXaw
+guid:0x389FE34834FB0EDF time: Sat Aug 07 10:10:39 2010  severity:0 type:2 app:net.rim.mdp data:TXrw
+guid:0x7D52B2987EC80054 time: Sat Aug 07 10:10:44 2010  severity:0 type:2 app:net.rim.fd data:FDOf
+guid:0x67FA59146751EBD2 time: Sat Aug 07 10:10:45 2010  severity:0 type:2 app:BBG data:TXst 0x6f244dca
+guid:0x67FA59146751EBD2 time: Sat Aug 07 10:10:54 2010  severity:0 type:2 app:BBG data:TXst 0x6f244dcb
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 10:10:54 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 10:11:04 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 10:11:11 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 10:11:19 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 10:11:27 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x29E95A693C6802B8 time: Sat Aug 07 10:11:31 2010  severity:0 type:2 app:cmime data:TXst   1864650188
+guid:0x67FA59146751EBD2 time: Sat Aug 07 10:11:51 2010  severity:0 type:2 app:BBG data:RXCd 0x226713db375d4ab0
+guid:0x67FA59146751EBD2 time: Sat Aug 07 10:11:51 2010  severity:0 type:2 app:BBG data:GTrx  577180635 492
+guid:0x29E95A693C6802B8 time: Sat Aug 07 10:12:01 2010  severity:0 type:2 app:cmime data:RXCd   485707858
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 10:12:01 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451341
+guid:0x166C870F1691C777 time: Sat Aug 07 10:12:01 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x29E95A693C6802B8 time: Sat Aug 07 10:12:28 2010  severity:0 type:2 app:cmime data:RXCd   485708001
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 10:12:28 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451340
+guid:0x166C870F1691C777 time: Sat Aug 07 10:12:28 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x29E95A693C6802B8 time: Sat Aug 07 10:12:40 2010  severity:0 type:2 app:cmime data:RXCd   485708081
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 10:12:40 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147480158
+guid:0x166C870F1691C777 time: Sat Aug 07 10:12:40 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x29E95A693C6802B8 time: Sat Aug 07 10:12:43 2010  severity:0 type:2 app:cmime data:TXst   1864650189
+guid:0xCB039F26E560F62D time: Sat Aug 07 10:12:48 2010  severity:0 type:2 app:net.rim.memclean data:FrmF
+guid:0x389FE34834FB0EDF time: Sat Aug 07 10:12:49 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0xAD314248F435F17 time: Sat Aug 07 10:12:51 2010  severity:0 type:2 app:Yahoo!Messenger data:INcn
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 10:12:51 2010  severity:0 type:2 app:net.rim.gme data:INcn
+guid:0x2BDBD7FC9FC77FF7 time: Sat Aug 07 10:12:51 2010  severity:0 type:2 app:KeyNego.yahoo data:INke
+guid:0x2BDBD7FC9FC77FF7 time: Sat Aug 07 10:12:52 2010  severity:0 type:2 app:KeyNego.yahoo data:TYne
+guid:0x2BDBD7FC9FC77FF7 time: Sat Aug 07 10:12:52 2010  severity:0 type:2 app:KeyNego.yahoo data:KEYNEGO/APYH02
+guid:0x2BDBD7FC9FC77FF7 time: Sat Aug 07 10:12:52 2010  severity:0 type:2 app:KeyNego.yahoo data:S98407841
+guid:0x2BDBD7FC9FC77FF7 time: Sat Aug 07 10:12:52 2010  severity:0 type:2 app:KeyNego.yahoo data:RXsx
+guid:0x2BDBD7FC9FC77FF7 time: Sat Aug 07 10:12:52 2010  severity:0 type:2 app:KeyNego.yahoo data:SXvf
+guid:0x2BDBD7FC9FC77FF7 time: Sat Aug 07 10:12:53 2010  severity:0 type:2 app:KeyNego.yahoo data:TXdy
+guid:0x2BDBD7FC9FC77FF7 time: Sat Aug 07 10:12:53 2010  severity:0 type:2 app:KeyNego.yahoo data:Eoff
+guid:0x2BDBD7FC9FC77FF7 time: Sat Aug 07 10:12:53 2010  severity:0 type:2 app:KeyNego.yahoo data:DNke
+guid:0xAD314248F435F17 time: Sat Aug 07 10:12:53 2010  severity:0 type:2 app:Yahoo!Messenger data:LNup
+guid:0xAD314248F435F17 time: Sat Aug 07 10:12:53 2010  severity:0 type:2 app:Yahoo!Messenger data:Thread[Thread-344367104,5]/Thread[Thread-344360960,5]
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 10:12:53 2010  severity:0 type:2 app:net.rim.gme data:INcn
+guid:0xCB039F26E560F62D time: Sat Aug 07 10:12:53 2010  severity:0 type:2 app:net.rim.memclean data:FrmF
+guid:0xAD314248F435F17 time: Sat Aug 07 10:12:53 2010  severity:0 type:2 app:Yahoo!Messenger data:ITPolicy-FileXfer:ON
+guid:0xAD314248F435F17 time: Sat Aug 07 10:12:53 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244dd0
+guid:0xAD314248F435F17 time: Sat Aug 07 10:12:56 2010  severity:0 type:2 app:Yahoo!Messenger data:RXCd 0x62fd59ed
+guid:0xAD314248F435F17 time: Sat Aug 07 10:12:57 2010  severity:0 type:2 app:Yahoo!Messenger data:DGCM
+guid:0xAD314248F435F17 time: Sat Aug 07 10:12:57 2010  severity:0 type:2 app:Yahoo!Messenger data:RXCd 0x62fd59f6
+guid:0xAD314248F435F17 time: Sat Aug 07 10:12:57 2010  severity:0 type:2 app:Yahoo!Messenger data:RXCd 0x62fd59f8
+guid:0xAD314248F435F17 time: Sat Aug 07 10:12:57 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244dd1
+guid:0xAD314248F435F17 time: Sat Aug 07 10:12:57 2010  severity:0 type:2 app:Yahoo!Messenger data:DGCM
+guid:0xAD314248F435F17 time: Sat Aug 07 10:12:57 2010  severity:0 type:2 app:Yahoo!Messenger data:RXCd 0x62fd59f9
+guid:0xAD314248F435F17 time: Sat Aug 07 10:12:57 2010  severity:0 type:2 app:Yahoo!Messenger data:RXCd 0x62fd59fa
+guid:0xAD314248F435F17 time: Sat Aug 07 10:12:58 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244dd2
+guid:0xAD314248F435F17 time: Sat Aug 07 10:12:58 2010  severity:0 type:2 app:Yahoo!Messenger data:RXCd 0x62fd59fb
+guid:0xAD314248F435F17 time: Sat Aug 07 10:12:59 2010  severity:0 type:2 app:Yahoo!Messenger data:DGCM
+guid:0xAD314248F435F17 time: Sat Aug 07 10:12:59 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244dd3
+guid:0xAD314248F435F17 time: Sat Aug 07 10:13:01 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244dd4
+guid:0xAD314248F435F17 time: Sat Aug 07 10:13:02 2010  severity:0 type:2 app:Yahoo!Messenger data:RXCd 0x62fd5aa5
+guid:0xAD314248F435F17 time: Sat Aug 07 10:13:02 2010  severity:0 type:2 app:Yahoo!Messenger data:DGCM
+guid:0xAD314248F435F17 time: Sat Aug 07 10:13:02 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244dd5
+guid:0xAD314248F435F17 time: Sat Aug 07 10:13:03 2010  severity:0 type:2 app:Yahoo!Messenger data:RXCd 0x62fd5ac1
+guid:0xAD314248F435F17 time: Sat Aug 07 10:13:03 2010  severity:0 type:2 app:Yahoo!Messenger data:DGCM
+guid:0xAD314248F435F17 time: Sat Aug 07 10:13:04 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244dd6
+guid:0xAD314248F435F17 time: Sat Aug 07 10:13:04 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244dd7
+guid:0xAD314248F435F17 time: Sat Aug 07 10:13:05 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244dd8
+guid:0xCB039F26E560F62D time: Sat Aug 07 10:13:07 2010  severity:0 type:2 app:net.rim.memclean data:FrmF
+guid:0xAD314248F435F17 time: Sat Aug 07 10:13:07 2010  severity:0 type:2 app:Yahoo!Messenger data:RXCd 0x62fd5b60
+guid:0xAD314248F435F17 time: Sat Aug 07 10:13:07 2010  severity:0 type:2 app:Yahoo!Messenger data:DGCM
+guid:0xAD314248F435F17 time: Sat Aug 07 10:13:07 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244dd9
+guid:0xAD314248F435F17 time: Sat Aug 07 10:13:08 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244dda
+guid:0xAD314248F435F17 time: Sat Aug 07 10:13:09 2010  severity:0 type:2 app:Yahoo!Messenger data:RXCd 0x62fd5ba0
+guid:0xAD314248F435F17 time: Sat Aug 07 10:13:09 2010  severity:0 type:2 app:Yahoo!Messenger data:DGCM
+guid:0xAD314248F435F17 time: Sat Aug 07 10:13:09 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244ddb
+guid:0xAD314248F435F17 time: Sat Aug 07 10:13:11 2010  severity:0 type:2 app:Yahoo!Messenger data:RXCd 0x62fd5bd9
+guid:0xAD314248F435F17 time: Sat Aug 07 10:13:11 2010  severity:0 type:2 app:Yahoo!Messenger data:DGCM
+guid:0xAD314248F435F17 time: Sat Aug 07 10:13:12 2010  severity:0 type:2 app:Yahoo!Messenger data:RXCd 0x62fd5bf4
+guid:0xAD314248F435F17 time: Sat Aug 07 10:13:12 2010  severity:0 type:2 app:Yahoo!Messenger data:DGCM
+guid:0xAD314248F435F17 time: Sat Aug 07 10:13:20 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244ddc
+guid:0xAD314248F435F17 time: Sat Aug 07 10:13:21 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244ddd
+guid:0xAD314248F435F17 time: Sat Aug 07 10:13:22 2010  severity:0 type:2 app:Yahoo!Messenger data:RXCd 0x62fd5d38
+guid:0xAD314248F435F17 time: Sat Aug 07 10:13:22 2010  severity:0 type:2 app:Yahoo!Messenger data:onAddGroupResponse: 100: Failed to execute last action. (100)
+guid:0xAD314248F435F17 time: Sat Aug 07 10:13:22 2010  severity:0 type:2 app:Yahoo!Messenger data:DGCM
+guid:0x7D52B2987EC80054 time: Sat Aug 07 10:14:00 2010  severity:0 type:2 app:net.rim.fd data:FDOn   1
+guid:0xAD314248F435F17 time: Sat Aug 07 10:14:13 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244dde
+guid:0xAD314248F435F17 time: Sat Aug 07 10:14:49 2010  severity:0 type:2 app:Yahoo!Messenger data:RXCd 0x62fd6616
+guid:0xAD314248F435F17 time: Sat Aug 07 10:14:49 2010  severity:0 type:2 app:Yahoo!Messenger data:DGCM
+guid:0xAD314248F435F17 time: Sat Aug 07 10:14:49 2010  severity:0 type:2 app:Yahoo!Messenger data:RXCd 0x62fd6619
+guid:0xAD314248F435F17 time: Sat Aug 07 10:14:49 2010  severity:0 type:2 app:Yahoo!Messenger data:DGCM
+guid:0xAD314248F435F17 time: Sat Aug 07 10:14:53 2010  severity:0 type:2 app:Yahoo!Messenger data:RXCd 0x62fd672f
+guid:0x67FA59146751EBD2 time: Sat Aug 07 10:14:57 2010  severity:0 type:2 app:BBG data:#GCM 0xc8
+guid:0x7D52B2987EC80054 time: Sat Aug 07 10:15:06 2010  severity:0 type:2 app:net.rim.fd data:FDOf
+guid:0x67FA59146751EBD2 time: Sat Aug 07 10:15:08 2010  severity:0 type:2 app:BBG data:TXst 0x6f244ddf
+guid:0x67FA59146751EBD2 time: Sat Aug 07 10:15:10 2010  severity:0 type:2 app:BBG data:TXst 0x6f244de0
+guid:0xAD314248F435F17 time: Sat Aug 07 10:15:14 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244de1
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 10:15:16 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 10:15:18 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x29E95A693C6802B8 time: Sat Aug 07 10:15:25 2010  severity:0 type:2 app:cmime data:TXst   1864650210
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 10:15:27 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x29E95A693C6802B8 time: Sat Aug 07 10:15:28 2010  severity:0 type:2 app:cmime data:TXst   1864650211
+guid:0x29E95A693C6802B8 time: Sat Aug 07 10:15:31 2010  severity:0 type:2 app:cmime data:TXst   1864650212
+guid:0x389FE34834FB0EDF time: Sat Aug 07 10:15:36 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 10:15:36 2010  severity:0 type:2 app:net.rim.mdp data:TXaw
+guid:0xAD314248F435F17 time: Sat Aug 07 10:15:37 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244de5
+guid:0x389FE34834FB0EDF time: Sat Aug 07 10:15:39 2010  severity:0 type:2 app:net.rim.mdp data:TXrw
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 10:15:51 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0xAD314248F435F17 time: Sat Aug 07 10:15:54 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244de6
+guid:0xAD314248F435F17 time: Sat Aug 07 10:16:15 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244de7
+guid:0xAD314248F435F17 time: Sat Aug 07 10:16:16 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244de8
+guid:0x29E95A693C6802B8 time: Sat Aug 07 10:16:31 2010  severity:0 type:2 app:cmime data:RXCd   485709443
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 10:16:31 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451339
+guid:0x166C870F1691C777 time: Sat Aug 07 10:16:31 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x29E95A693C6802B8 time: Sat Aug 07 10:17:14 2010  severity:0 type:2 app:cmime data:RXCd   485709684
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 10:17:14 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451338
+guid:0x166C870F1691C777 time: Sat Aug 07 10:17:14 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x29E95A693C6802B8 time: Sat Aug 07 10:17:35 2010  severity:0 type:2 app:cmime data:TXst   1864650217
+guid:0x29E95A693C6802B8 time: Sat Aug 07 10:17:40 2010  severity:0 type:2 app:cmime data:RXCd   485709844
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 10:17:40 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451337
+guid:0x166C870F1691C777 time: Sat Aug 07 10:17:40 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x389FE34834FB0EDF time: Sat Aug 07 10:17:41 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 10:17:41 2010  severity:3 type:2 app:net.rim.mdp data:RDpd
+guid:0x389FE34834FB0EDF time: Sat Aug 07 10:17:41 2010  severity:0 type:2 app:net.rim.mdp data:TXaw
+guid:0x389FE34834FB0EDF time: Sat Aug 07 10:17:42 2010  severity:0 type:2 app:net.rim.mdp data:TXrw
+guid:0x29E95A693C6802B8 time: Sat Aug 07 10:17:46 2010  severity:0 type:2 app:cmime data:TXst   1864650218
+guid:0xAD314248F435F17 time: Sat Aug 07 10:18:15 2010  severity:0 type:2 app:Yahoo!Messenger data:RXCd 0x62fd7caa
+guid:0x29E95A693C6802B8 time: Sat Aug 07 10:18:17 2010  severity:0 type:2 app:cmime data:RXCd   485710084
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 10:18:17 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451336
+guid:0x166C870F1691C777 time: Sat Aug 07 10:18:17 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0xAD314248F435F17 time: Sat Aug 07 10:18:34 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244deb
+guid:0xAD314248F435F17 time: Sat Aug 07 10:18:50 2010  severity:0 type:2 app:Yahoo!Messenger data:RXCd 0x62fd8193
+guid:0xAD314248F435F17 time: Sat Aug 07 10:18:54 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244dec
+guid:0xAD314248F435F17 time: Sat Aug 07 10:18:55 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244ded
+guid:0xAD314248F435F17 time: Sat Aug 07 10:19:09 2010  severity:0 type:2 app:Yahoo!Messenger data:RXCd 0x62fd83e3
+guid:0xAD314248F435F17 time: Sat Aug 07 10:19:14 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244dee
+guid:0xAD314248F435F17 time: Sat Aug 07 10:19:15 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244def
+guid:0xAD314248F435F17 time: Sat Aug 07 10:19:23 2010  severity:0 type:2 app:Yahoo!Messenger data:RXCd 0x62fd853a
+guid:0xAD314248F435F17 time: Sat Aug 07 10:19:36 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244df0
+guid:0xAD314248F435F17 time: Sat Aug 07 10:19:37 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244df1
+guid:0xAD314248F435F17 time: Sat Aug 07 10:19:38 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244df2
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 10:20:01 2010  severity:0 type:2 app:net.rim.ippp data:TXst   541
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 10:20:01 2010  severity:0 type:2 app:net.rim.ippp data:TXst   532
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 10:20:03 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   11
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 10:20:05 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   19032
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 10:20:05 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   2413
+guid:0x29E95A693C6802B8 time: Sat Aug 07 10:20:14 2010  severity:0 type:2 app:cmime data:TXst   1864650229
+guid:0x389FE34834FB0EDF time: Sat Aug 07 10:20:19 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x7D52B2987EC80054 time: Sat Aug 07 10:22:01 2010  severity:0 type:2 app:net.rim.fd data:FDOn   1
+guid:0xAD314248F435F17 time: Sat Aug 07 10:22:12 2010  severity:0 type:2 app:Yahoo!Messenger data:RXCd 0x62fd9db3
+guid:0xAD314248F435F17 time: Sat Aug 07 10:22:30 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244df6
+guid:0x7D52B2987EC80054 time: Sat Aug 07 10:22:31 2010  severity:0 type:2 app:net.rim.fd data:FDOf
+guid:0xAD314248F435F17 time: Sat Aug 07 10:22:31 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244df7
+guid:0xAD314248F435F17 time: Sat Aug 07 10:22:32 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244df8
+guid:0xAD314248F435F17 time: Sat Aug 07 10:22:50 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244df9
+guid:0xAD314248F435F17 time: Sat Aug 07 10:22:54 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244dfa
+guid:0xAD314248F435F17 time: Sat Aug 07 10:22:55 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244dfb
+guid:0xAD314248F435F17 time: Sat Aug 07 10:23:15 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244dfc
+guid:0xAD314248F435F17 time: Sat Aug 07 10:23:20 2010  severity:0 type:2 app:Yahoo!Messenger data:RXCd 0x62fda5e9
+guid:0x29E95A693C6802B8 time: Sat Aug 07 10:23:22 2010  severity:0 type:2 app:cmime data:RXCd   485712052
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 10:23:22 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147453567
+guid:0x166C870F1691C777 time: Sat Aug 07 10:23:22 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0xAD314248F435F17 time: Sat Aug 07 10:23:31 2010  severity:0 type:2 app:Yahoo!Messenger data:RXCd 0x62fda6f9
+guid:0xAD314248F435F17 time: Sat Aug 07 10:23:31 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244dfd
+guid:0xAD314248F435F17 time: Sat Aug 07 10:23:32 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244dfe
+guid:0xAD314248F435F17 time: Sat Aug 07 10:23:41 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244dff
+guid:0xAD314248F435F17 time: Sat Aug 07 10:23:43 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244e00
+guid:0xAD314248F435F17 time: Sat Aug 07 10:23:43 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244e01
+guid:0xAD314248F435F17 time: Sat Aug 07 10:23:48 2010  severity:0 type:2 app:Yahoo!Messenger data:RXCd 0x62fda92f
+guid:0xAD314248F435F17 time: Sat Aug 07 10:23:54 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244e02
+guid:0xAD314248F435F17 time: Sat Aug 07 10:23:56 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244e03
+guid:0xAD314248F435F17 time: Sat Aug 07 10:24:02 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244e04
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 10:24:45 2010  severity:0 type:2 app:System data:VM:+GC RX=8.3M,RF=15.4M,FF=58M,OF=181.3K,OS=15.9M,ON=397.6K,OR=0,FR=363.5K,TR=176.8K,RR=19,IS=17.2K RA=19.1M,RS=15.9M,RN=82.3K TA=20.2M,TS=0,TN=130.6K PA=0,PS=0,PN=141.9K R0=55M,1=800.2K,2=20K,3=125.3K,4=1.9M,7=413.1K,8=6K,9=16.6M,10=25.7K,11=116K,12=362.7K,13=55.8K,14=86.7K,15=371.2K,20=4.7K,21=780,22=87.3K,23=105.4K,24=16.5K
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 10:25:07 2010  severity:0 type:2 app:System data:VM:-GC RX=8.3M,RF=15.8M,FF=58.1M,OF=186K,OS=15.6M,ON=392.9K,OR=0,FR=0,TR=0,RR=0,IS=16.9K RA=18.8M,RS=15.6M,RN=78.7K TA=20.2M,TS=0,TN=133.9K PA=0,PS=0,PN=140.6K R0=55M,1=800.2K,2=20K,3=125.3K,4=1.9M,7=413.1K,8=6K,9=16.2M,10=25.7K,11=116K,12=362.7K,13=55.2K,14=86.7K,15=371.2K,20=4.7K,21=780,22=87.3K,23=105.4K,24=16.5K
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 10:25:07 2010  severity:0 type:2 app:System data:-GCt=2151,b=1,r=0,g=t,w=8,u=0,c=1
+guid:0x29E95A693C6802B8 time: Sat Aug 07 10:25:10 2010  severity:0 type:2 app:cmime data:RXCd   485712740
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 10:25:10 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451335
+guid:0x166C870F1691C777 time: Sat Aug 07 10:25:10 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 10:25:24 2010  severity:0 type:2 app:System data:VM:+RRi RX=8.4M,RF=15.8M,FF=58.1M,OF=186K,OS=15.6M,ON=392.9K,OR=0,FR=644,TR=4.2K,RR=0,IS=16.9K RA=18.8M,RS=15.6M,RN=78.8K TA=20.2M,TS=0,TN=133.8K PA=0,PS=0,PN=140.6K R0=55M,1=800.2K,2=20K,3=125.3K,4=1.9M,7=413.1K,8=6K,9=16.2M,10=25.4K,11=115.3K,12=362.7K,13=55.2K,14=86.7K,15=371.2K,20=4.7K,21=780,22=87.3K,23=105.4K,24=16.5K
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 10:25:24 2010  severity:0 type:2 app:System data:VM:-RR RX=8.4M,RF=16.1M,FF=57.8M,OF=186K,OS=15.3M,ON=392.9K,OR=0,FR=644,TR=4.2K,RR=0,IS=16.9K RA=18.4M,RS=15.3M,RN=76.4K TA=20.5M,TS=0,TN=136.2K PA=0,PS=0,PN=140.6K R0=55M,1=800.2K,2=20K,3=125.3K,4=1.9M,7=413.1K,8=6K,9=15.9M,10=25.4K,11=115.3K,12=362.7K,13=55.2K,14=86.7K,15=371.2K,20=4.7K,21=780,22=87.3K,23=105.4K,24=16.5K
+guid:0xAD314248F435F17 time: Sat Aug 07 10:25:24 2010  severity:0 type:2 app:Yahoo!Messenger data:RXCd 0x62fdb420
+guid:0xAD314248F435F17 time: Sat Aug 07 10:25:32 2010  severity:0 type:2 app:Yahoo!Messenger data:RXCd 0x62fdb520
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 10:26:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x29E95A693C6802B8 time: Sat Aug 07 10:26:12 2010  severity:0 type:2 app:cmime data:RXCd   485713212
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 10:26:12 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451334
+guid:0x166C870F1691C777 time: Sat Aug 07 10:26:12 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0xAD314248F435F17 time: Sat Aug 07 10:27:18 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244e05
+guid:0xAD314248F435F17 time: Sat Aug 07 10:27:28 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244e06
+guid:0xAD314248F435F17 time: Sat Aug 07 10:27:29 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244e07
+guid:0xAD314248F435F17 time: Sat Aug 07 10:27:38 2010  severity:0 type:2 app:Yahoo!Messenger data:RXCd 0x62fdc41c
+guid:0xAD314248F435F17 time: Sat Aug 07 10:27:39 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244e08
+guid:0xAD314248F435F17 time: Sat Aug 07 10:27:51 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244e09
+guid:0xAD314248F435F17 time: Sat Aug 07 10:27:51 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244e0a
+guid:0xBEF92E11214401C3 time: Sat Aug 07 10:28:16 2010  severity:0 type:2 app:UI data:GS+Q2 295681a6net.rim.device.apps.internal.ribbon.ui.ApplicationSwitcher
+guid:0xBEF92E11214401C3 time: Sat Aug 07 10:28:21 2010  severity:0 type:2 app:UI data:GS-D 295681a6
+guid:0xBEF92E11214401C3 time: Sat Aug 07 10:28:35 2010  severity:0 type:2 app:UI data:GS+Q2 ac5d442fnet.rim.device.apps.internal.ribbon.ui.ApplicationSwitcher
+guid:0xBEF92E11214401C3 time: Sat Aug 07 10:28:40 2010  severity:0 type:2 app:UI data:GS-D ac5d442f
+guid:0xBEF92E11214401C3 time: Sat Aug 07 10:28:47 2010  severity:0 type:2 app:UI data:GS+Q2 ff4af87bnet.rim.device.apps.internal.ribbon.ui.ApplicationSwitcher
+guid:0xBEF92E11214401C3 time: Sat Aug 07 10:28:47 2010  severity:0 type:2 app:UI data:GS-D ff4af87b
+guid:0xCB039F26E560F62D time: Sat Aug 07 10:29:00 2010  severity:0 type:2 app:net.rim.memclean data:FrmF
+guid:0xAD314248F435F17 time: Sat Aug 07 10:29:21 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244e0b
+guid:0xAD314248F435F17 time: Sat Aug 07 10:29:36 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244e0c
+guid:0xAD314248F435F17 time: Sat Aug 07 10:29:37 2010  severity:0 type:2 app:Yahoo!Messenger data:RXCd 0x62fdd1f0
+guid:0xAD314248F435F17 time: Sat Aug 07 10:29:37 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244e0d
+guid:0xBEF92E11214401C3 time: Sat Aug 07 10:29:50 2010  severity:0 type:2 app:UI data:GS+Q2 9071ebb2net.rim.device.apps.internal.ribbon.ui.ApplicationSwitcher
+guid:0xBEF92E11214401C3 time: Sat Aug 07 10:29:52 2010  severity:0 type:2 app:UI data:GS-D 9071ebb2
+guid:0xCB039F26E560F62D time: Sat Aug 07 10:30:03 2010  severity:0 type:2 app:net.rim.memclean data:FrmF
+guid:0xCB039F26E560F62D time: Sat Aug 07 10:30:03 2010  severity:0 type:2 app:net.rim.memclean data:FrmF
+guid:0xCB039F26E560F62D time: Sat Aug 07 10:30:05 2010  severity:0 type:2 app:net.rim.memclean data:FrmF
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 10:30:06 2010  severity:0 type:2 app:net.rim.ippp data:TXst   895
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 10:30:07 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   710
+guid:0xAD314248F435F17 time: Sat Aug 07 10:30:21 2010  severity:0 type:2 app:Yahoo!Messenger data:RXCd 0x62fdd70b
+guid:0x29E95A693C6802B8 time: Sat Aug 07 10:30:32 2010  severity:0 type:2 app:cmime data:RXCd   485715134
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 10:30:32 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451333
+guid:0x166C870F1691C777 time: Sat Aug 07 10:30:32 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0xAD314248F435F17 time: Sat Aug 07 10:31:05 2010  severity:0 type:2 app:Yahoo!Messenger data:LOGO
+guid:0xAD314248F435F17 time: Sat Aug 07 10:31:05 2010  severity:0 type:2 app:Yahoo!Messenger data:TXst 0x6f244e0f
+guid:0xAD314248F435F17 time: Sat Aug 07 10:31:06 2010  severity:0 type:2 app:Yahoo!Messenger data:LNdn
+guid:0xAD314248F435F17 time: Sat Aug 07 10:31:06 2010  severity:0 type:2 app:Yahoo!Messenger data:MXsd
+guid:0xAD314248F435F17 time: Sat Aug 07 10:31:06 2010  severity:0 type:2 app:Yahoo!Messenger data:Thread[Thread-344367104,5]
+guid:0xAD314248F435F17 time: Sat Aug 07 10:31:06 2010  severity:3 type:2 app:Yahoo!Messenger data:REto
+guid:0xAD314248F435F17 time: Sat Aug 07 10:31:06 2010  severity:0 type:2 app:Yahoo!Messenger data:RCsd
+guid:0xAD314248F435F17 time: Sat Aug 07 10:31:06 2010  severity:0 type:2 app:Yahoo!Messenger data:net.rim.device.apps.internal.qm.yahoo.YahooServerConnection@ef773b44
+guid:0x29E95A693C6802B8 time: Sat Aug 07 10:31:29 2010  severity:0 type:2 app:cmime data:TXst   1864650256
+guid:0x29E95A693C6802B8 time: Sat Aug 07 10:31:32 2010  severity:0 type:2 app:cmime data:TXst   1864650257
+guid:0x389FE34834FB0EDF time: Sat Aug 07 10:31:38 2010  severity:3 type:2 app:net.rim.mdp data:TXrp
+guid:0x389FE34834FB0EDF time: Sat Aug 07 10:31:39 2010  severity:0 type:2 app:net.rim.mdp data:TXaw
+guid:0x389FE34834FB0EDF time: Sat Aug 07 10:31:39 2010  severity:0 type:2 app:net.rim.mdp data:TXrw
+guid:0xCB039F26E560F62D time: Sat Aug 07 10:31:54 2010  severity:0 type:2 app:net.rim.memclean data:FrmF
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 10:31:55 2010  severity:0 type:2 app:net.rim.ippp data:TXst   896
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 10:31:56 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   710
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 10:32:00 2010  severity:0 type:2 app:System data:VM:+GC RX=8.6M,RF=16.1M,FF=57.8M,OF=191K,OS=15.1M,ON=387.9K,OR=0,FR=246.3K,TR=176.5K,RR=22,IS=17.2K RA=18.4M,RS=15.1M,RN=72.8K TA=20.5M,TS=0,TN=133.5K PA=0,PS=0,PN=141K R0=55M,1=800.2K,2=20K,3=125.3K,4=1.9M,7=413.1K,8=6K,9=15.9M,10=25.1K,11=110.4K,12=362.7K,13=55.2K,14=86.6K,15=371.2K,20=4.7K,21=780,22=87.3K,23=105.4K,24=16.5K
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 10:32:23 2010  severity:0 type:2 app:System data:VM:-GC RX=8.6M,RF=16.1M,FF=58.2M,OF=194.6K,OS=15.1M,ON=384.3K,OR=0,FR=0,TR=0,RR=0,IS=16.8K RA=18.4M,RS=15.1M,RN=71.2K TA=20M,TS=0,TN=133.5K PA=0,PS=0,PN=140.4K R0=55M,1=800.2K,2=20K,3=125.3K,4=1.9M,7=413.1K,8=6K,9=15.9M,10=25.1K,11=110.4K,12=362.7K,13=54.5K,14=86.6K,15=371.2K,20=4.7K,21=780,22=87.3K,23=105.4K,24=16.5K
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 10:32:23 2010  severity:0 type:2 app:System data:-GCt=2228,b=1,r=0,g=t,w=8,u=0,c=1
+guid:0x7D52B2987EC80054 time: Sat Aug 07 10:32:24 2010  severity:0 type:2 app:net.rim.fd data:FDOn   1
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 10:33:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 10:34:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 10:35:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 10:36:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x67FA59146751EBD2 time: Sat Aug 07 10:37:46 2010  severity:0 type:2 app:BBG data:RXCd 0x2626dbcb6831bb12
+guid:0x67FA59146751EBD2 time: Sat Aug 07 10:37:46 2010  severity:0 type:2 app:BBG data:GTrx  640080843 847
+guid:0x7D52B2987EC80054 time: Sat Aug 07 10:37:46 2010  severity:0 type:2 app:net.rim.fd data:FDOf
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 10:38:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 10:39:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x29E95A693C6802B8 time: Sat Aug 07 10:39:58 2010  severity:0 type:2 app:cmime data:RXCd   485718653
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 10:39:58 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451332
+guid:0x166C870F1691C777 time: Sat Aug 07 10:39:58 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 10:40:00 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x7D52B2987EC80054 time: Sat Aug 07 10:40:00 2010  severity:0 type:2 app:net.rim.fd data:FDOn   1
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 10:41:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 10:42:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x29E95A693C6802B8 time: Sat Aug 07 10:42:33 2010  severity:0 type:2 app:cmime data:RXCd   485719718
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 10:42:33 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451331
+guid:0x166C870F1691C777 time: Sat Aug 07 10:42:33 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x29E95A693C6802B8 time: Sat Aug 07 10:42:41 2010  severity:0 type:2 app:cmime data:RXCd   485719768
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 10:42:41 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451330
+guid:0x166C870F1691C777 time: Sat Aug 07 10:42:41 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x29E95A693C6802B8 time: Sat Aug 07 10:42:43 2010  severity:0 type:2 app:cmime data:RXCd   485719797
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 10:42:43 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451329
+guid:0x166C870F1691C777 time: Sat Aug 07 10:42:43 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x389FE34834FB0EDF time: Sat Aug 07 10:42:43 2010  severity:3 type:2 app:net.rim.mdp data:RDpd
+guid:0x29E95A693C6802B8 time: Sat Aug 07 10:42:52 2010  severity:0 type:2 app:cmime data:RXCd   485719868
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 10:42:52 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451328
+guid:0x166C870F1691C777 time: Sat Aug 07 10:42:52 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x29E95A693C6802B8 time: Sat Aug 07 10:42:53 2010  severity:0 type:2 app:cmime data:RXCd   485719897
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 10:42:54 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451327
+guid:0x166C870F1691C777 time: Sat Aug 07 10:42:54 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x29E95A693C6802B8 time: Sat Aug 07 10:43:03 2010  severity:0 type:2 app:cmime data:RXCd   485719950
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 10:43:03 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451326
+guid:0x166C870F1691C777 time: Sat Aug 07 10:43:03 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x29E95A693C6802B8 time: Sat Aug 07 10:43:25 2010  severity:0 type:2 app:cmime data:RXCd   485720178
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 10:43:26 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451325
+guid:0x166C870F1691C777 time: Sat Aug 07 10:43:26 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x29E95A693C6802B8 time: Sat Aug 07 10:43:51 2010  severity:0 type:2 app:cmime data:RXCd   485720356
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 10:43:51 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451324
+guid:0x166C870F1691C777 time: Sat Aug 07 10:43:51 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 10:44:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 10:45:00 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 10:46:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x29E95A693C6802B8 time: Sat Aug 07 10:46:48 2010  severity:0 type:2 app:cmime data:RXCd   485721538
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 10:46:48 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451323
+guid:0x166C870F1691C777 time: Sat Aug 07 10:46:48 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 10:47:02 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 10:48:00 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x29E95A693C6802B8 time: Sat Aug 07 10:48:19 2010  severity:0 type:2 app:cmime data:RXCd   485722140
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 10:48:19 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451322
+guid:0x166C870F1691C777 time: Sat Aug 07 10:48:19 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 10:48:37 2010  severity:0 type:2 app:BBM data:RXCd 0x3328bdcb
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 10:48:48 2010  severity:0 type:2 app:BBM data:RXCd 0x3d38b14a
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 10:48:48 2010  severity:0 type:2 app:BBM data:TXst 0x6f244e13
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 10:48:49 2010  severity:0 type:2 app:BBM data:TXst 0x6f244e14
+guid:0x7D52B2987EC80054 time: Sat Aug 07 10:48:50 2010  severity:0 type:2 app:net.rim.fd data:FDOf
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 10:48:50 2010  severity:0 type:2 app:net.rim.ippp data:TXst   622
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 10:48:52 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   7839
+guid:0x7D52B2987EC80054 time: Sat Aug 07 10:48:54 2010  severity:0 type:2 app:net.rim.fd data:FDOn   0
+guid:0x7D52B2987EC80054 time: Sat Aug 07 10:48:55 2010  severity:0 type:2 app:net.rim.fd data:FDOf
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 10:48:55 2010  severity:0 type:2 app:net.rim.ippp data:TXst   818
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 10:48:55 2010  severity:0 type:2 app:BBM data:TXst 0x6f244e17
+guid:0x43D4C8AA264559F0 time: Sat Aug 07 10:48:55 2010  severity:3 type:2 app:BBM data:TXto 0x6f244b85
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 10:48:57 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   8203
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 10:48:58 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   16410
+guid:0x7D52B2987EC80054 time: Sat Aug 07 10:48:59 2010  severity:0 type:2 app:net.rim.fd data:FDOn   0
+guid:0x19E57B17BE5FDC12 time: Sat Aug 07 10:49:17 2010  severity:0 type:2 app:net.rim.gme data:RXCa
+guid:0x7D52B2987EC80054 time: Sat Aug 07 10:50:01 2010  severity:0 type:2 app:net.rim.fd data:FDOf
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 10:50:01 2010  severity:0 type:2 app:net.rim.ippp data:TXst   542
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 10:50:01 2010  severity:0 type:2 app:net.rim.ippp data:TXst   534
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 10:50:02 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   8203
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 10:50:03 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   6323
+guid:0x58E77B27EE5F2CFD time: Sat Aug 07 10:50:03 2010  severity:0 type:2 app:net.rim.ippp data:RXCd   2415
+guid:0x7D52B2987EC80054 time: Sat Aug 07 10:50:03 2010  severity:0 type:2 app:net.rim.fd data:FDOn   0
+guid:0x67FA59146751EBD2 time: Sat Aug 07 10:50:13 2010  severity:0 type:2 app:BBG data:RXCd 0x200a007537e15785
+guid:0x67FA59146751EBD2 time: Sat Aug 07 10:50:13 2010  severity:0 type:2 app:BBG data:GTrx  537526389 415
+guid:0x29E95A693C6802B8 time: Sat Aug 07 10:50:20 2010  severity:0 type:2 app:cmime data:RXCd   485723128
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 10:50:21 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451321
+guid:0x166C870F1691C777 time: Sat Aug 07 10:50:21 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 10:51:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 10:52:01 2010  severity:0 type:2 app:System data:VM:ICSFv=3,w=131044
+guid:0x647E5DBBC34B5549 time: Sat Aug 07 10:53:06 2010  severity:0 type:2 app:net.rim.clock data:+CHG
+guid:0xDAA64EAD4E49C5D5 time: Sat Aug 07 10:53:06 2010  severity:0 type:2 app:net.rim.usb.pwd data:CbCn
+guid:0x5D41D4729582C2DA time: Sat Aug 07 10:53:06 2010  severity:0 type:2 app:RootRegister data:usbConnectionStateChange:1
+guid:0xDAA64EAD4E49C5D5 time: Sat Aug 07 10:53:07 2010  severity:0 type:2 app:net.rim.usb.pwd data:CbCn
+guid:0x5D41D4729582C2DA time: Sat Aug 07 10:53:07 2010  severity:0 type:2 app:RootRegister data:usbConnectionStateChange:8
+guid:0xDAA64EAD4E49C5D5 time: Sat Aug 07 10:53:07 2010  severity:0 type:2 app:net.rim.usb.pwd data:CbCn
+guid:0x5D41D4729582C2DA time: Sat Aug 07 10:53:07 2010  severity:0 type:2 app:RootRegister data:usbConnectionStateChange:18
+guid:0xBEF92E11214401C3 time: Sat Aug 07 10:53:07 2010  severity:0 type:2 app:UI data:GS+Q2 1909a619net.rim.device.internal.io.file.RootRegister$YesNoCheckboxOverlappingDialog
+guid:0xBEF92E11214401C3 time: Sat Aug 07 10:53:08 2010  severity:0 type:2 app:UI data:GS-D 1909a619
+guid:0x29E95A693C6802B8 time: Sat Aug 07 10:54:04 2010  severity:0 type:2 app:cmime data:RXCd   485724506
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 10:54:04 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451320
+guid:0x166C870F1691C777 time: Sat Aug 07 10:54:04 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x29E95A693C6802B8 time: Sat Aug 07 10:54:14 2010  severity:0 type:2 app:cmime data:RXCd   485724572
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 10:54:14 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451319
+guid:0x166C870F1691C777 time: Sat Aug 07 10:54:14 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0xDAA64EAD4E49C5D5 time: Sat Aug 07 10:54:21 2010  severity:0 type:2 app:net.rim.usb.pwd data:CbCn
+guid:0x5D41D4729582C2DA time: Sat Aug 07 10:54:21 2010  severity:0 type:2 app:RootRegister data:usbConnectionStateChange:8
+guid:0x647E5DBBC34B5549 time: Sat Aug 07 10:54:21 2010  severity:0 type:2 app:net.rim.clock data:-CHG
+guid:0x647E5DBBC34B5549 time: Sat Aug 07 10:54:21 2010  severity:0 type:2 app:net.rim.clock data:+CHG
+guid:0x29E95A693C6802B8 time: Sat Aug 07 10:54:21 2010  severity:0 type:2 app:cmime data:RXCd   485724617
+guid:0xEED3AAA81F4F29F9 time: Sat Aug 07 10:54:22 2010  severity:0 type:2 app:net.rim.blackberryemail data:Recv Ei -2147451318
+guid:0x166C870F1691C777 time: Sat Aug 07 10:54:22 2010  severity:3 type:2 app:SmrtGuard data:EMAIL BLOCKER
+guid:0x647E5DBBC34B5549 time: Sat Aug 07 10:54:25 2010  severity:0 type:2 app:net.rim.clock data:-CHG
+guid:0x647E5DBBC34B5549 time: Sat Aug 07 10:54:26 2010  severity:0 type:2 app:net.rim.clock data:+CHG
+guid:0xDAA64EAD4E49C5D5 time: Sat Aug 07 10:54:26 2010  severity:0 type:2 app:net.rim.usb.pwd data:CbCn
+guid:0x5D41D4729582C2DA time: Sat Aug 07 10:54:26 2010  severity:0 type:2 app:RootRegister data:usbConnectionStateChange:18
+guid:0xBEF92E11214401C3 time: Sat Aug 07 10:54:27 2010  severity:0 type:2 app:UI data:GS+Q2 88ed6611net.rim.device.internal.io.file.RootRegister$YesNoCheckboxOverlappingDialog
+guid:0xBEF92E11214401C3 time: Sat Aug 07 10:54:35 2010  severity:0 type:2 app:UI data:GS-D 88ed6611
+guid:0x97C9F5F641D25E5F time: Sat Aug 07 10:54:59 2010  severity:0 type:2 app:System data:JVM:INFOp=2584e259,a='5.0.0.681',o='5.2.0.67',h=84001503

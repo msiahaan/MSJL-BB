@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Project SYSTEM "Project-4.6.dtd">
+<!-- eric4 project file for project PyQt_Jl -->
+<!-- Saved: 2010-08-08, 05:55:18 -->
+<!-- Copyright (C) 2010 Mico Siahaan, mico.siahaan@gmail.com -->
+<Project version="4.6">
+  <Language></Language>
+  <ProgLanguage mixed="0">Python</ProgLanguage>
+  <ProjectType>Qt4</ProjectType>
+  <Description>GUI for RIM JavaLoader.exe</Description>
+  <Version>0.1</Version>
+  <Author>Mico Siahaan</Author>
+  <Email>mico.siahaan@gmail.com</Email>
+  <Sources>
+    <Source>setup.py</Source>
+    <Source>ui_deviceInfoDialog.py</Source>
+    <Source>ui_eventLogDialog.py</Source>
+    <Source>ui_passwordDialog.py</Source>
+    <Source>__init__.py</Source>
+    <Source>ui_mainDialog.py</Source>
+    <Source>jl.pyw</Source>
+    <Source>JavaLoader.py</Source>
+  </Sources>
+  <Forms>
+    <Form>ui/deviceInfoDialog.ui</Form>
+    <Form>ui/eventLogDialog.ui</Form>
+    <Form>ui/mainDialog.ui</Form>
+    <Form>ui/passwordDialog.ui</Form>
+  </Forms>
+  <Translations>
+  </Translations>
+  <Resources>
+  </Resources>
+  <Interfaces>
+  </Interfaces>
+  <Others>
+  </Others>
+  <MainScript>jl.pyw</MainScript>
+  <Vcs>
+    <VcsType>None</VcsType>
+  </Vcs>
+  <FiletypeAssociations>
+    <FiletypeAssociation pattern="*.ui" type="FORMS" />
+    <FiletypeAssociation pattern="*.idl" type="INTERFACES" />
+    <FiletypeAssociation pattern="*.qm" type="TRANSLATIONS" />
+    <FiletypeAssociation pattern="*.ptl" type="SOURCES" />
+    <FiletypeAssociation pattern="*.pyw" type="SOURCES" />
+    <FiletypeAssociation pattern="*.ui.h" type="FORMS" />
+    <FiletypeAssociation pattern="*.ts" type="TRANSLATIONS" />
+    <FiletypeAssociation pattern="*.py" type="SOURCES" />
+    <FiletypeAssociation pattern="*.qrc" type="RESOURCES" />
+  </FiletypeAssociations>
+  <Packagers>
+    <PackagersParams>
+      <dict>
+        <key>
+          <string>CXFREEZE</string>
+        </key>
+        <value>
+          <dict>
+            <key>
+              <string>optimize</string>
+            </key>
+            <value>
+              <int>1</int>
+            </value>
+            <key>
+              <string>targetDirectory</string>
+            </key>
+            <value>
+              <unicode>build</unicode>
+            </value>
+            <key>
+              <string>targetName</string>
+            </key>
+            <value>
+              <unicode>jl.exe</unicode>
+            </value>
+          </dict>
+        </value>
+      </dict>
+    </PackagersParams>
+  </Packagers>
+</Project>

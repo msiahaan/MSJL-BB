@@ -1,0 +1,192 @@
+#!/usr/bin/env python
+
+from PyQt4.QtGui import *
+from PyQt4.QtCore import *
+import ui_mainDialog
+import ui_deviceInfoDialog
+import ui_eventLogDialog
+import ui_passwordDialog
+import sys
+import os
+from subprocess import Popen, PIPE
+
+
+__version__ = '0.2'
+
+CURPATH = None
+JAVALOADER_PATH = "JavaLoader.exe"
+COMMANDS = {'Device Info': 'deviceinfo',
+            'Event Log': 'eventlog',
+            'Wipe Device': 'wipe',
+            'Reset to Factory': 'resettofactory', 
+            'Screenshot': 'screenshot'}
+
+
+
+class MainDialog(QDialog, ui_mainDialog.Ui_mainDialog):
+    def __init__(self, parent=None):
+        super(MainDialog, self).__init__(parent)
+        self.callPasswordDialog()
+        self.setupUi(self)
+        self.setWindowTitle("MSJavaLoader-BB")
+        
+        self.connect(self.quitPushButton, SIGNAL("clicked()"), self.exit)
+        self.connect(self.deviceInfoPushbutton, SIGNAL("clicked()"), self.showDeviceInfo)
+        self.connect(self.eventLogPushButton, SIGNAL("clicked()"), self.showEventLog)
+        self.connect(self.takeScreenshotPushButton, SIGNAL("clicked()"), self.takeScreenshot)
+        self.connect(self.wipeDevicePushButton, SIGNAL("clicked()"), self.wipeDevice)
+        self.connect(self.resetFactoryPushButton,  SIGNAL("clicked()"),  self.resetToFactory)
+        self.connect(self.launchLoaderPushButton,  SIGNAL("clicked()"),  self.installOS)
+            
+    
+    def exit(self):
+        sys.exit()
+        
+    
+    def createCommand(self, command, *args):
+        other_options = ' '.join([arg for arg in args])
+        if self.password is None:
+            return ' '.join([JAVALOADER_PATH, '-u', COMMANDS[command], other_options]).strip()
+        else:
+            pass_option = '-w%s'%(self.password)
+            return ' '.join([JAVALOADER_PATH, '-u', pass_option, COMMANDS[command], other_options]).strip()
+    
+    
+    def callPasswordDialog(self):
+        dialog = PasswordDialog(self)
+        dialog.setWindowTitle("Enter Password")
+        if dialog.exec_():
+            self.password = dialog.passwordLineEdit.text()
+        else:
+            self.password = None
+        
+    
+    def showDeviceInfo(self):
+        dialog = DeviceInfoDialog(self)
+        try:
+            command = self.createCommand('Device Info')
+            p = Popen(command, stdout=PIPE)
+            deviceInfo_stdout = p.communicate()
+            dialog.deviceInfoText = deviceInfo_stdout[0]
+            dialog.deviceInfoTextEdit.setText(str(dialog.deviceInfoText))
+        except:
+            pass
+            
+        dialog.setWindowTitle("Device Info")
+        dialog.exec_()
+    
+    
+    def showEventLog(self):
+        dialog = EventLogDialog(self)
+        try:
+            command = self.createCommand('Event Log')
+            p = Popen(command, stdout=PIPE)
+            eventLog_stdout = p.communicate()
+            dialog.eventLogText = eventLog_stdout[0]
+            dialog.eventLogTextEdit.setText(str(dialog.eventLogText))
+        except:
+            pass
+        
+        dialog.setWindowTitle("Event Log")
+        dialog.exec_()
+    
+    
+    def takeScreenshot(self):
+        try:
+            command = self.createCommand('Screenshot', 'sshot.bmp')
+            p = Popen(command, stdout=PIPE)
+            QMessageBox.information(self, "Screenshot Success!", '''Take screenshot successfully
+                                \nSee file 'sshot.bmp' in this application folder''')
+        except:
+            pass
+        
+    
+    def wipeDevice(self):
+        respond = QMessageBox.warning(self, "Wipe Device", "Are you sure to wipe this device?",
+                            buttons = QMessageBox.Ok|QMessageBox.Cancel)
+        if respond == QMessageBox.Ok:
+            try:
+                command = self.createCommand('Wipe Device')
+                p = Popen(command, stdout=PIPE, stderr=PIPE)
+                p.communicate()
+                QMessageBox.information(self, "Wipe Device Success!", '''Wipe Device successfully!''')
+            except:
+                pass
+        elif respond == QMessageBox.Cancel:
+            pass
+    
+    def resetToFactory(self):  
+        respond = QMessageBox.warning(self, "Reset to Factory Settings", "Are you sure to reset to factory settings?",
+                            buttons = QMessageBox.Ok|QMessageBox.Cancel)
+        if respond == QMessageBox.Ok:
+            try:
+                command = self.createCommand('Reset To Factory')
+                p = Popen(command, stdout=PIPE, stderr=PIPE)
+                p.wait()
+                QMessageBox.information(self, "Reset to Factory Settings Success!", '''Reset to factory settings successfully!''')
+            except:
+                pass
+        elif respond == QMessageBox.Cancel:
+            pass
+            
+
+    def installOS(self):
+        try:
+            import win32api
+            win32api.WinExec(r"C:\Program Files\Common Files\Research In Motion\AppLoader\Loader.exe")
+        except:
+            QMessageBox.information(self, "Loader not found!", '''Loader.exe Not Found!
+                \nPlease reinstall Blackberry Desktop Software''')
+
+    
+class DeviceInfoDialog(QDialog, ui_deviceInfoDialog.Ui_deviceInfoDialog):
+    def __init__(self, parent=None):
+        super(DeviceInfoDialog, self).__init__(parent)
+        self.deviceInfoText = 'Device Info: None'
+        self.setupUi(self)
+        self.connect(self.okPushButton, SIGNAL("clicked()"), self.close)
+        self.connect(self.saveInfoPushButton,  SIGNAL("clicked()"),  self.saveInfo)
+        
+    def saveInfo(self):
+        fileName = QFileDialog.getSaveFileName(self, "Save Device Info",  ".",  "Text Files (*.txt)")
+        try:
+            file = open(fileName,  'w')
+            file.writelines(self.deviceInfoText)
+        except IOError:
+            pass
+
+
+
+class EventLogDialog(QDialog, ui_eventLogDialog.Ui_eventLogDialog):
+    def __init__(self, parent=None):
+        super(EventLogDialog, self).__init__(parent)
+        self.eventLogText = 'Event Log: None'
+        self.setupUi(self)
+        self.connect(self.okPushButton, SIGNAL("clicked()"), self.close)
+        self.connect(self.saveEventLogPushButton,  SIGNAL("clicked()"),  self.saveEventLog)
+        
+    def saveEventLog(self):
+        fileName = QFileDialog.getSaveFileName(self, "Save Event Log",  ".",  "Text Files (*.txt)")
+        try:
+            file = open(fileName,  'w')
+            file.writelines(self.eventLogText)
+        except IOError:
+            pass
+
+
+
+class PasswordDialog(QDialog, ui_passwordDialog.Ui_passwordDialog):
+    def __init__(self, parent=None):
+        super(PasswordDialog, self).__init__(parent)
+        self.setupUi(self)
+        
+        
+
+if __name__ == "__main__":
+    app = QApplication(sys.argv)
+    form = MainDialog()
+    form.show()
+    app.exec_()
+    
+
+
